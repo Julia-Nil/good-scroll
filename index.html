@@ -4,60 +4,175 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>My Good News</title>
+<meta name="theme-color" content="#f5f6f3">
+<title>Good Scroll | Your Personal Newspaper</title>
+
 <style>
+* { box-sizing: border-box; }
+
 body {
   font-family: system-ui, sans-serif;
   background: #f5f6f3;
   color: #26332d;
-  max-width: 650px;
+  max-width: 700px;
   margin: auto;
-  padding: 24px 18px;
+  padding: 20px;
 }
+
 header {
   padding: 25px 0;
   border-bottom: 1px solid #ddd;
 }
-h1 { margin-bottom: 5px; }
+
+h1 { margin: 8px 0; font-size: 32px; }
+
 .subtitle { color: #68776e; }
+
+#status {
+  font-size: 13px;
+  color: #68776e;
+  margin: 18px 0;
+}
+
 .story {
   background: white;
-  padding: 18px;
-  margin: 16px 0;
+  padding: 19px;
+  margin: 15px 0;
   border-radius: 12px;
+  box-shadow: 0 2px 8px #00000008;
 }
+
 .category {
   color: #38815c;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: bold;
   text-transform: uppercase;
+  letter-spacing: .6px;
 }
-a { color: #286b4a; }
+
+.story h2 {
+  font-size: 19px;
+  line-height: 1.4;
+  margin: 9px 0;
+}
+
+.story p {
+  color: #59665e;
+  line-height: 1.5;
+}
+
+.meta {
+  font-size: 12px;
+  color: #829087;
+  margin: 10px 0;
+}
+
+a {
+  color: #286b4a;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover { text-decoration: underline; }
+
 footer {
   color: #829087;
   font-size: 12px;
-  margin-top: 35px;
+  margin: 35px 0;
+  text-align: center;
 }
 </style>
 </head>
+
 <body>
 <header>
   <div class="subtitle">YOUR PERSONAL NEWSPAPER</div>
-  <h1>🌱 Good News</h1>
-  <div class="subtitle">Interesting things happening in the world.</div>
+  <h1>🌱 Good Scroll</h1>
+  <div class="subtitle">
+    Interesting things happening in the world.
+  </div>
 </header>
 
-<main id="feed">
-  <div class="story">
-    <div class="category">Welcome</div>
-    <h2>Your newspaper is under construction!</h2>
-    <p>Soon, this space will fill with interesting,
-    encouraging stories from around the world.</p>
-  </div>
-</main>
+<div id="status">Loading today's news...</div>
+
+<main id="feed"></main>
 
 <footer>
   Independently curated · Made for curious minds
 </footer>
+
+<script>
+function escapeHTML(value) {
+  return String(value || "").replace(/[&<>"']/g, char => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  })[char]);
+}
+
+function formatDate(date) {
+  return new Date(date).toLocaleString([], {
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit"
+  });
+}
+
+async function loadNews() {
+  const status = document.getElementById("status");
+  const feed = document.getElementById("feed");
+
+  try {
+    const response = await fetch("feed.json?t=" + Date.now());
+
+    if (!response.ok) {
+      throw new Error("Could not find feed.json");
+    }
+
+    const data = await response.json();
+
+    if (!data.articles || data.articles.length === 0) {
+      status.textContent = "No articles found yet.";
+      return;
+    }
+
+    status.textContent =
+      `${data.count} stories · Updated ${formatDate(data.updated)}`;
+
+    feed.innerHTML = data.articles.map(article => `
+      <article class="story">
+        <div class="category">
+          ${escapeHTML(article.category)}
+        </div>
+
+        <h2>${escapeHTML(article.title)}</h2>
+
+        <p>${escapeHTML(article.description)}</p>
+
+        <div class="meta">
+          ${escapeHTML(article.source)}
+          · ${formatDate(article.published)}
+        </div>
+
+        <a href="${escapeHTML(article.link)}"
+           target="_blank"
+           rel="noopener noreferrer">
+          Read original story →
+        </a>
+      </article>
+    `).join("");
+
+  } catch (error) {
+    status.textContent =
+      "Couldn't load the news. Please try again later.";
+    console.error(error);
+  }
+}
+
+loadNews();
+</script>
 </body>
 </html>
