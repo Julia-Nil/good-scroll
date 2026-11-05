@@ -153,7 +153,16 @@ async function loadNews() {
 
     feed.innerHTML = data.articles.map(article => `
       <article class="story">
-        <div class="category">
+
+  ${article.image_url && article.image_url.startsWith("https://")
+    ? `<img class="story-image"
+            src="${escapeHTML(article.image_url)}"
+            alt=""
+            loading="lazy"
+            onerror="this.style.display='none'">`
+    : ""}
+
+  <div class="category">
           ${escapeHTML(article.category)}
         </div>
 
