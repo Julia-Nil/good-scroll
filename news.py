@@ -36,6 +36,28 @@ SEARCHES = {
 MAX_ARTICLES = 60
 MAX_AGE_DAYS = 7
 
+def extract_image(item):
+    # Look for image URLs in RSS media tags
+    for element in item.iter():
+        tag = element.tag.split("}")[-1].lower()
+
+        if tag in ("thumbnail", "content"):
+            image_url = element.attrib.get("url", "")
+            if image_url.startswith("https://"):
+                return image_url
+
+    # Look for an image embedded in the description
+    description = item.findtext("description", "")
+    match = re.search(
+        r'<img[^>]+src=["\']([^"\']+)["\']',
+        description,
+        re.IGNORECASE
+    )
+
+    if match and match.group(1).startswith("https://"):
+        return match.group(1)
+
+    return ""
 
 def clean_text(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
@@ -70,6 +92,7 @@ def collect_news():
                 description = clean_text(
                     item.findtext("description", "")
                 )
+                image_url = extract_image(item)
                 date_text = item.findtext("pubDate", "")
 
                 source_element = item.find("source")
@@ -105,14 +128,15 @@ def collect_news():
                 seen.add(key)
 
                 articles.append({
-                    "title": clean_text(title),
-                    "link": link,
-                    "description": description[:500],
-                    "source": source,
-                    "category": category,
-                    "published": published.isoformat(),
-                    "age_hours": round(age.total_seconds() / 3600, 1)
-                })
+    "title": clean_text(title),
+    "link": link,
+    "description": description[:500],
+    "image_url": image_url,
+    "source": source,
+    "category": category,
+    "published": published.isoformat(),
+    "age_hours": round(age.total_seconds() / 3600, 1)
+})
 
             print(f"Collected: {category}")
 
