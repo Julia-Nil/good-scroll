@@ -1,7 +1,117 @@
 {
-  "updated": "2026-11-06T05:47:05.920828+00:00",
+  "updated": "2026-11-06T13:57:57.167856+00:00",
   "count": 60,
   "articles": [
+    {
+      "title": "Midea to continue increasing investment in research and innovation - China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGUlI5bnJpR1h3dHRkc05MZG10RTk0MFM0RnJTU0JacE0yV3lIcUl2ZEVTdmE5dDIyTV9nTDI3bmNVNEY4WFpTZkhJQmpJZGF2NWlvaGJoMmlXVXg1WXR1R3JWVXhnNUM3cnViaWxmWC14RkxjcWRwTVZIZTBTdw?oc=5",
+      "description": "Midea to continue increasing investment in research and innovation    China Daily",
+      "image_url": "",
+      "source": "China Daily",
+      "category": "Technology & Inventions",
+      "published": "2026-11-06T13:26:49+00:00",
+      "age_hours": 0.5
+    },
+    {
+      "title": "UNDP and Government of Tanzania Commit TZS 5.2 Billion to Support 49 Community-led Environmental Projects - United Nations Development Programme",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd1Y5YmJfeW1jR3B1Rk1Ib0J5bjQ5WEpXRGt5dFdjWXBUcW9naVdfM05uN2J0NkZ0TGt5dnY4RHNPOVpnRUlaR08tc1ZobnBoRGNSSFhLMDJrQzJqX3Z0UmZickRJek9NenpjM2hHX3YwRldScUszcDZibWlfWWs5dkZ6eUMwdWF4Rmt2QVR1djRkV0k5MGxqRFUzNGNza1hlU3c1OUpXM2RUNlFsc3QzTkJzdnhMblFJdGFqRG55X1pyX1lPeEpZdTd0M0RBQUFhOU9DSlc3NWs0R3M?oc=5",
+      "description": "UNDP and Government of Tanzania Commit TZS 5.2 Billion to Support 49 Community-led Environmental Projects    United Nations Development Programme",
+      "image_url": "",
+      "source": "United Nations Development Programme",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-06T13:07:55+00:00",
+      "age_hours": 0.8
+    },
+    {
+      "title": "What If Every Patient Journey Could Help Unlock the Next Medical Breakthrough? - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaU9sRU5la3A0ak9qVHVPd0E4MnJOSmp2YmhSMm9hY19GNWdfNWRLSkE3N1k0eXZRcUlqRThKU1Fhb2V3OXhPazhrbVhodUJ2Ul9rVzN1NDFZM2RQTjM3OGVDNU1BcmFhTjZOdW5ObHlhRW9XSi0ySktqQVA0Qml4QktWSnlVVUNOMGRNa1ZobE9ydlhIMnRJSXU1bVVvVjdIV0E5SjlDYXB4SnV6UzNlZU1qaDQwQXZFZ2hpbGJsMnItSkx0aTdUanljdG1vNkZVQ1E?oc=5",
+      "description": "What If Every Patient Journey Could Help Unlock the Next Medical Breakthrough?    StreetInsider",
+      "image_url": "",
+      "source": "StreetInsider",
+      "category": "Science & Medicine",
+      "published": "2026-11-06T13:07:34+00:00",
+      "age_hours": 0.8
+    },
+    {
+      "title": "Aiyedatiwa unveils environmental reforms, deploys 120 waste skips in Ondo - The Nation Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTJ0Y3JVT0w2MHB3cmVxVU9rV1RNTEpDbUhUaXVKS0hhY00tbkNuNkEwTVAzbVBqUTVFZFFBVGU4QTVxb0x4NUgwUGNSLVFXbm5yM2pHTGp2a2hOS2Vha2RvVlNlWWRKMmZFT1Q2MmZEVDRUM3hXQTFqekJ2LUhweVZVdFVJdzc1SENtMFBneE10a3lPVnRacGJneTkyUlF0dTVPU0F30gGrAUFVX3lxTE5kclBFenF1VWd3YUV6T293RzFPVjVVM2piNWExeFRvaHFOcWwxY0RzYlZiSWN5Qng0azBjcFdzYjdUMGh2Q3VxQ3hTT1lvLVpyczRCa1QtcmdJRGhWazQ5VFlEenFwLUJfMW5aVVJ3VjFyUnRUeFRZODJrbkRxbmI4WGpfXzA3eUcyTjB0Y1ZseVl3ZjNEVE1ubkJIemVMY1Q4M1VRZjBYUlRhcw?oc=5",
+      "description": "Aiyedatiwa unveils environmental reforms, deploys 120 waste skips in Ondo    The Nation Newspaper",
+      "image_url": "",
+      "source": "The Nation Newspaper",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-06T11:52:04+00:00",
+      "age_hours": 2.1
+    },
+    {
+      "title": "Guest Commentary: Florida’s healthier future starts with clinical trials - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGsyWmt1OGJteERsZVBzOEFCdnZyS1RPWE11ZUQ5c25BUHpSSzlCYkZHdUM0dGo2LTU2cktiSURiN2RnLUFtSUZodXJuS2VqN2FkYktHbC1OZkE2SE1OVFhSblVfWmZmT1RXVENCeDF1VXhQS3VjVnJrRm1SNllZbDFiYUZocWNpcnVUNnZ4QmpKSjF1S1RnaEpIT1VQbjFIOTRLUkZaLUg2emwtU1ZYdEE1YlM?oc=5",
+      "description": "Guest Commentary: Florida’s healthier future starts with clinical trials    Orlando Sentinel",
+      "image_url": "",
+      "source": "Orlando Sentinel",
+      "category": "Science & Medicine",
+      "published": "2026-11-06T10:49:45+00:00",
+      "age_hours": 3.1
+    },
+    {
+      "title": "Committee on Economic, Social and Cultural Rights Commends Mexico for Progress in Reducing Poverty, Asks about Measures to Protect Human Rights Defenders and Reduce the Gender Wage Gap | The United Nations Office at Geneva - ohchr",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnVna0pUSFNfQnhCME1SYmxnZmk1dlB5dnI1WmtJYU9zM1c4dThJbjBsN2FnMTNPbFNwbTNRWGpFNmlHRE9FaWRqQkl1VmI2UElmc3FIclh0OXVzZlNVUjZoLWhpeHozWXhacVdaWDdLcjlOZ1hId0dRRy01eVZsNWNBa291Nk51UTBLTDdhbzNsczA3Tlo3TDNYTGNRN3cwd3RCYU45aXp4bTROc1BlY3loOHAxQ2pIZzM3MlRZclA?oc=5",
+      "description": "Committee on Economic, Social and Cultural Rights Commends Mexico for Progress in Reducing Poverty, Asks about Measures to Protect Human Rights Defenders and Reduce the Gender Wage Gap | The United Nations Office at Geneva    ohchr",
+      "image_url": "",
+      "source": "ohchr",
+      "category": "Economics & Statistics",
+      "published": "2026-11-06T08:45:40+00:00",
+      "age_hours": 5.2
+    },
+    {
+      "title": "Maker Movement to help drive innovation, youth engagement in Qatar | Gulf Times - Gulf Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhNdmJvZHI5VnhOYnc5NlQtQ2Q2SHo3N2NIYTFLWE9aYXJSNlVJMUtlUUVlSWVzS3diTWRIb2xReDRTblcxMmY5dEdwN05ubVdGVHhmN2kwV2t4MFFPcS0wa042YWJySmRzX0cwX0R6VmdMZzdrYVEtTVRuRC13SjhScFVLVlFHSEVuZjVlZXNqTHlTODNhSXVVZTZzUVlDZFhsUjgyN0hyS2RZdHJwU05ZOWh4ME3SAbwBQVVfeXFMTUs4dHB3bXpUb2RhUEpoWEJkM1ZHRzZWdXE3NkEyT3V0Uk5kVG5jdkZBMFhDRkFfSE82MFBMWWpNNk11YTZCQU5ONmdiTW1zbG9tMDFieXNpR0g2VERmb1RvVmNPeDB5QXVDOXBMaGFlTmFjODhQZkJnMkhiQWZEc0tNclI5NUNleWotaU5CeUFqVFRnVjdMU04zendHbUxfRTljaE5OZGVYYU13VVVLSnFNMmhYclFOVlJyUnk?oc=5",
+      "description": "Maker Movement to help drive innovation, youth engagement in Qatar | Gulf Times    Gulf Times",
+      "image_url": "",
+      "source": "Gulf Times",
+      "category": "Technology & Inventions",
+      "published": "2026-11-06T07:20:00+00:00",
+      "age_hours": 6.6
+    },
+    {
+      "title": "Poverty in India: Word Bank’s claims of dramatic decline misleading - Down To Earth",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnNIeUFWMGlyRUZRVlU0TUhDNWVzcUxTTkMxMkJXVGtzZlVoOXlBVEQ3OUlsVDlnMEEteTZTQjFmVW5XZHhldGU5MDNWWXEzR0VWdk9mQXBDWThIRVBWOEtaQTZGV2QxX3Y3WXA4Y3NQWm9QejMzbUFTNXVDcFhWWjRGWm1FNUNsVWY2aEJWYjI0SGE3amRzR1F6VzhIcXdObVFQREhqVVRuTnVETzdCU3NOX3LSAbQBQVVfeXFMUDZzSHlBVjBpckVGUVZVNE1IQzVlc3FMU05DMTJCV1Rrc2ZVaDl5QVRENzlJbFQ5ZzBBLXk2U0IxZlVuV2R4ZXRlOTAzVllxM0dFVnZPZkFwQ1k4SEVQVjhLWkE2RldkMV92N1lwOGNzUFpvUHozM21BUzV1Q3BYVlo0RlptRTVDbFVmNmhCVmIyNEhhN2pkc0dRelc4SHF3Tm1RUERIalVUbk51RE83QlNzTl9y?oc=5",
+      "description": "Poverty in India: Word Bank’s claims of dramatic decline misleading    Down To Earth",
+      "image_url": "",
+      "source": "Down To Earth",
+      "category": "Economics & Statistics",
+      "published": "2026-11-06T07:03:00+00:00",
+      "age_hours": 6.9
+    },
+    {
+      "title": "Covington-based CTI Clinical Trial & Consulting ‘moving medicine forward’ with expanded research efforts - Northern Kentucky Tribune",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOThxd3NESE1iNDNnN3lLdzZyME9lb21ta2t5ZVJfeWpGLVRnQXI5a2lXM1FYeERIckZ1YS1KOHJiRTdFOE9mYy1KOUx5QkltT1Vadk5ydXp5OWtlc2V3ZVNiNDRCX21ZMWpTcklnb3RnODVsVi1BX1hWNGxRdlJsaUswSHB2b1RPQ3Jpc0dMU2w2SV9qU1RyNFpBNEozWFVibVpHTEdkOFNaUnV2Y1ZaY0p3QlZMcjFWZWlZbTdoaTBwRi1lSGNlWDJqNTI?oc=5",
+      "description": "Covington-based CTI Clinical Trial & Consulting ‘moving medicine forward’ with expanded research efforts    Northern Kentucky Tribune",
+      "image_url": "",
+      "source": "Northern Kentucky Tribune",
+      "category": "Science & Medicine",
+      "published": "2026-11-06T05:50:41+00:00",
+      "age_hours": 8.1
+    },
+    {
+      "title": "Key takeaways from 32nd Nigerian Economic Summit - Vanguard News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFlLNHB3clJMbTJhMkJ3c3ZrZEZCUmdFQUR0QzQ3eEJfMzBvXzk2UkFuNmN5cld0WnRFRG9vVUgyQkIyMWVhTVRKR05CWVFWeVgxcXh6ZFhSejBTenpkd0VqTTBmSzdMb3JCd1lLUWVUQ2V5alVfZ21ndmtMSDJlOGVYdVBUOVdxZXBxRWhPNlNHZ2_SAZMBQVVfeXFMT1RZSzRwd3JSTG0yYTJCd3N2a2RGQlJnRUFEdEM0N3hCXzMwb185NlJBbjZjeXJXdFp0RURvb1VIMkJCMjFlYU1USkdOQllRVnlYMXF4emRYUnowU3p6ZHdFak0wZks3TG9yQndZS1FlVENleWpVX2dtZ3ZrTEgyZThlWHVQVDlXcWVwcUVoTzZTR2dv?oc=5",
+      "description": "Key takeaways from 32nd Nigerian Economic Summit    Vanguard News",
+      "image_url": "",
+      "source": "Vanguard News",
+      "category": "Economics & Statistics",
+      "published": "2026-11-06T05:39:35+00:00",
+      "age_hours": 8.3
+    },
+    {
+      "title": "2026 WWF EFN Grant Recipients - World Wildlife Fund",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWlBEUy0wTEsyYzJ1WVhFcGh2RlF6aFlXODQ4VmxZNm4xdlRfbTFwMVR6TTNmSm4wNl9PeTlaQzZXcXplcjR1b2EyNXJvcTlVLUhacFQ3S2ZrVXRVTlVpMzdGYTRrb3dodUwxazZCRXRQMWNnSzBtTGtHVl9TY3hraUwwSnVCb3FBTU5rdVJmNV84Q19PeGpVcnJaRGtEaHhlNGNHTGtxQ2hmc2pubGZYeTJWeUs0SWRVMi1sM2h5UVlOVkdJWG9zV2JUcEpxZGUyNmF6MHI4S1RNRWdvODVBNVo2WkhYSlU2VlFaVDlVUQ?oc=5",
+      "description": "2026 WWF EFN Grant Recipients    World Wildlife Fund",
+      "image_url": "",
+      "source": "World Wildlife Fund",
+      "category": "Wildlife & Conservation",
+      "published": "2026-11-06T05:19:45+00:00",
+      "age_hours": 8.6
+    },
     {
       "title": "The Changing World of Animal Cloning - The Scientist",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iNG1rNngxOFF1RmFyMXBiZXo0MDVwT1NtTFJVZTRtSjBmU2dyeWw5YVZ5bGhCbmk5bWl2YUItenhUakJCQnRmQzRoLVBTVXhMVjBMRHV3M21GSmlnWGJHZ1cyYmEzV3hDSG9pdGpEUE00VWhUdGNpSkhZYUw?oc=5",
@@ -9,18 +119,8 @@
       "image_url": "",
       "source": "The Scientist",
       "category": "Science & Medicine",
-      "published": "2026-11-06T05:15:00+00:00",
-      "age_hours": 0.5
-    },
-    {
-      "title": "Phu Quoc special zone steps up green transition ahead of APEC 2027 - Thông tấn xã Việt Nam",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGxPMkNSZ1F1cEE2anZxWDhBT3ltbURMRWFxV0ZrYk91eVFpekJzUlh4aV8xd2FoYnZJWkk0OUUwVFJhY255SUlBc1RtRTN0VVZ1VGlEQjFhcmV2dFliUGw4cHdHSG1HRUtGeEJiSmh3MUlIRFo5QjFaOEQzLWdJc09YNzN3SmpEOWg0TktQYU9qZ2ZMeEhES1FmMFhPQVFsUHlTdjNwM3pDcnZVVjM3dXRVd1A0b0lLbnRyTQ?oc=5",
-      "description": "Phu Quoc special zone steps up green transition ahead of APEC 2027    Thông tấn xã Việt Nam",
-      "image_url": "",
-      "source": "Thông tấn xã Việt Nam",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-06T03:11:08+00:00",
-      "age_hours": 2.6
+      "published": "2026-11-06T05:15:26+00:00",
+      "age_hours": 8.7
     },
     {
       "title": "Half of 165 Skulls Found in a Mexican Cave Belonged to Women - Arkeonews",
@@ -30,7 +130,7 @@
       "source": "Arkeonews",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-06T02:19:59+00:00",
-      "age_hours": 3.5
+      "age_hours": 11.6
     },
     {
       "title": "A Gold Bear Emerges from a Looted 2,300-Year-Old Tomb - Arkeonews",
@@ -40,7 +140,7 @@
       "source": "Arkeonews",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-05T23:45:09+00:00",
-      "age_hours": 6.0
+      "age_hours": 14.2
     },
     {
       "title": "Aussie Ark receives $5.33 million share of landmark $120 million conservation commitment - Australasian Leisure Management Magazine",
@@ -50,7 +150,17 @@
       "source": "Australasian Leisure Management Magazine",
       "category": "Wildlife & Conservation",
       "published": "2026-11-05T23:00:45+00:00",
-      "age_hours": 6.8
+      "age_hours": 15.0
+    },
+    {
+      "title": "Archaeologists Find 2,000-Year-Old Roman ‘Drug Stash’ Hidden Inside a Bone - ZME Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFVRb2k4VGdBcWZteFh6Q1ViZ0lBVVpsWHE1d0pHOXctYVlMd1hsclg4djZKcm9zQ3FhTmI4MGp0OWxxOXJwUVNhTXlrMDhtQ3NlblNWN1ZJTnVhSjRERlZocGtGWWdSbVFpTDRVSm55YUpfd3lyM0VxN05ycW5IdWJ1U1FSaU9zb3RVSDNB?oc=5",
+      "description": "Archaeologists Find 2,000-Year-Old Roman ‘Drug Stash’ Hidden Inside a Bone    ZME Science",
+      "image_url": "",
+      "source": "ZME Science",
+      "category": "Archaeology & Anthropology",
+      "published": "2026-11-05T21:15:20+00:00",
+      "age_hours": 16.7
     },
     {
       "title": "Three SUNY Optometry doctoral students awarded prestigious William C. Ezell fellowships - EurekAlert!",
@@ -60,7 +170,7 @@
       "source": "EurekAlert!",
       "category": "Science & Medicine",
       "published": "2026-11-05T20:49:13+00:00",
-      "age_hours": 9.0
+      "age_hours": 17.1
     },
     {
       "title": "Technological Innovation Is Everything - www.policyarena.org",
@@ -70,7 +180,7 @@
       "source": "www.policyarena.org",
       "category": "Technology & Inventions",
       "published": "2026-11-05T20:47:54+00:00",
-      "age_hours": 9.0
+      "age_hours": 17.2
     },
     {
       "title": "New Cardiovascular Research From NYU Langone Heart at AHA Scientific Sessions 2026 - NYU Langone Health",
@@ -80,7 +190,7 @@
       "source": "NYU Langone Health",
       "category": "Science & Medicine",
       "published": "2026-11-05T19:17:39+00:00",
-      "age_hours": 10.5
+      "age_hours": 18.7
     },
     {
       "title": "Shriners Children’s breaks ground on $153 million research institute, launches recruitment efforts - EurekAlert!",
@@ -90,7 +200,7 @@
       "source": "EurekAlert!",
       "category": "Science & Medicine",
       "published": "2026-11-05T18:39:59+00:00",
-      "age_hours": 11.1
+      "age_hours": 19.3
     },
     {
       "title": "UPMC Convenes Global Oncology Leaders to Advance the Future of Cancer Care - University of Pittsburgh Medical Center",
@@ -100,7 +210,7 @@
       "source": "University of Pittsburgh Medical Center",
       "category": "Science & Medicine",
       "published": "2026-11-05T18:35:19+00:00",
-      "age_hours": 11.2
+      "age_hours": 19.4
     },
     {
       "title": "New estrogen research may change how scientists think about women’s aging brains - The Washington Post",
@@ -110,7 +220,7 @@
       "source": "The Washington Post",
       "category": "Science & Medicine",
       "published": "2026-11-05T18:00:00+00:00",
-      "age_hours": 11.8
+      "age_hours": 20.0
     },
     {
       "title": "Reed Jobs’ Yosemite Raises $350 Million to Support Cancer Research - Oncodaily",
@@ -120,7 +230,7 @@
       "source": "Oncodaily",
       "category": "Science & Medicine",
       "published": "2026-11-05T17:49:03+00:00",
-      "age_hours": 12.0
+      "age_hours": 20.1
     },
     {
       "title": "New 3D microscope packs many imaging tools into one system: Newsroom - UT Southwestern",
@@ -130,7 +240,7 @@
       "source": "UT Southwestern",
       "category": "Science & Medicine",
       "published": "2026-11-05T17:31:39+00:00",
-      "age_hours": 12.3
+      "age_hours": 20.4
     },
     {
       "title": "Tiny animal populations can recover, challenging assumptions about extinction risk - Phys.org",
@@ -140,7 +250,7 @@
       "source": "Phys.org",
       "category": "Wildlife & Conservation",
       "published": "2026-11-05T17:20:01+00:00",
-      "age_hours": 12.5
+      "age_hours": 20.6
     },
     {
       "title": "2026 US Midterms: What Divided Government Means for Business | Mintz - ML Strategies - JD Supra",
@@ -150,17 +260,7 @@
       "source": "JD Supra",
       "category": "Politics & Public Policy",
       "published": "2026-11-05T17:06:50+00:00",
-      "age_hours": 12.7
-    },
-    {
-      "title": "Sovereign AI puts cash and compute behind UK startup using AI to redefine chemistry - Wired Gov",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNF8tck02dzZGbjNzdE1vNDlidFZhVUtBZmRvblNUekxMejZqbUhxa1ZpU0ZwRjRXUmc2WnIwV3VpUzQwcE9sTHRpRllCODJtdHpuYzlNbkQ1M2tNbEJlaWNZcW9pVXdJTkZ0ckdGTmpqeXdPWm1MUU1NdjNOUDhuMFVoUTF0dl9sVkRTQ1d5UTRlbTRNSTVhVHptdVgxQlZGZU9MdTdwa2Z2QzNLdlFSWEJaLXdsLWY3cHh5Tm9aNjNPQ2tmcjdTX1pZd05ubnBtdlc0SkctQ1NNeEdrUzlGVU52Ung?oc=5",
-      "description": "Sovereign AI puts cash and compute behind UK startup using AI to redefine chemistry    Wired Gov",
-      "image_url": "",
-      "source": "Wired Gov",
-      "category": "Science & Medicine",
-      "published": "2026-11-05T16:25:28+00:00",
-      "age_hours": 13.4
+      "age_hours": 20.9
     },
     {
       "title": "UK Veterinary Science Marks Opening of the Sports Medicine Research Center - EquiManagement",
@@ -170,7 +270,7 @@
       "source": "EquiManagement",
       "category": "Science & Medicine",
       "published": "2026-11-05T15:29:25+00:00",
-      "age_hours": 14.3
+      "age_hours": 22.5
     },
     {
       "title": "Susan Bullman receives TAMEST Mary Beth Maddox Award for breakthrough tumor microbiome research - EurekAlert!",
@@ -180,17 +280,7 @@
       "source": "EurekAlert!",
       "category": "Science & Medicine",
       "published": "2026-11-05T14:20:27+00:00",
-      "age_hours": 15.4
-    },
-    {
-      "title": "AI For Science & The Fear Of Missing History - KraneShares",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfenBhdFgxMzI3dHFfM3FPbVIySDJxVEhOcWgyUDVqaDNtZW0wNlNEZGZqcUQ3bk9ucVFMeHo3cmU5WGZRQnVBNWZCREdZVmU0SktRRHZjejNabHBHVUdHQnlvdUdtR1JoOHhuTnJMVS12WjBMZ1E?oc=5",
-      "description": "AI For Science & The Fear Of Missing History    KraneShares",
-      "image_url": "",
-      "source": "KraneShares",
-      "category": "Science & Medicine",
-      "published": "2026-11-05T14:17:12+00:00",
-      "age_hours": 15.5
+      "age_hours": 23.6
     },
     {
       "title": "15 Scientific Discoveries That Deserved More Excitement Than People Gave Them - Yahoo",
@@ -200,7 +290,7 @@
       "source": "Yahoo",
       "category": "Science & Medicine",
       "published": "2026-11-05T13:15:00+00:00",
-      "age_hours": 16.5
+      "age_hours": 24.7
     },
     {
       "title": "After Decades, Hilsa Returns to the Upper Ganga: A Remarkable Story of River Restoration and Ecological Resilience - Indian Council Of Agricultural Research",
@@ -210,7 +300,7 @@
       "source": "Indian Council Of Agricultural Research",
       "category": "Wildlife & Conservation",
       "published": "2026-11-05T12:05:27+00:00",
-      "age_hours": 17.7
+      "age_hours": 25.9
     },
     {
       "title": "A Leap Forward in Indigenous Breeding: ICAR–IVRI’s Breakthrough in Producing Sahiwal Calves through Advanced Reproductive Technologies - Indian Council Of Agricultural Research",
@@ -220,7 +310,7 @@
       "source": "Indian Council Of Agricultural Research",
       "category": "Technology & Inventions",
       "published": "2026-11-05T12:05:27+00:00",
-      "age_hours": 17.7
+      "age_hours": 25.9
     },
     {
       "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation - Science Daily",
@@ -230,7 +320,7 @@
       "source": "Science Daily",
       "category": "Science & Medicine",
       "published": "2026-11-05T11:07:42+00:00",
-      "age_hours": 18.7
+      "age_hours": 26.8
     },
     {
       "title": "New archaeological discovery reveals secrets of a mysterious treasury in the Roman city of Pompeii - صوت الإمارات",
@@ -240,7 +330,17 @@
       "source": "صوت الإمارات",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-05T08:13:34+00:00",
-      "age_hours": 21.6
+      "age_hours": 29.7
+    },
+    {
+      "title": "Economic Growth Amid Rising Poverty - liberianobserver.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckNWdi02ZHlrUHQ0YUM3VVJxTlF6T25zdjBhdjJfYnF0VzVnaWRyX1RjRGxqV0JvMlU3ZlpaUnE5aHZmZ3N3dXZuektHYjFiSEE3bmY2UE9PXzNVRHY5eFRBQVJUT3JIOUw2QWxFcEoweFFJTVA2RDFqTmp0M0hFR0lhem11aWNfMEtMMzBKbGZJUWFFTE41bWJPNkJud0tOZmZnSUpFQkNaNmNlWWM4R3p4Z3hNbUc2THg4U0VYZ0Y?oc=5",
+      "description": "Economic Growth Amid Rising Poverty    liberianobserver.com",
+      "image_url": "",
+      "source": "liberianobserver.com",
+      "category": "Economics & Statistics",
+      "published": "2026-11-05T06:57:25+00:00",
+      "age_hours": 31.0
     },
     {
       "title": "Tuju: Nak Pergi Mana? Google Maps Je! - Newswav",
@@ -250,7 +350,7 @@
       "source": "Newswav",
       "category": "Technology & Inventions",
       "published": "2026-11-05T06:00:49+00:00",
-      "age_hours": 23.8
+      "age_hours": 32.0
     },
     {
       "title": "India has made progress in reducing poverty, but World Bank estimates are flawed - Scroll.in",
@@ -260,7 +360,7 @@
       "source": "Scroll.in",
       "category": "Economics & Statistics",
       "published": "2026-11-05T03:42:00+00:00",
-      "age_hours": 26.1
+      "age_hours": 34.3
     },
     {
       "title": "From poverty alleviation to prosperity - The Hindu",
@@ -270,7 +370,7 @@
       "source": "The Hindu",
       "category": "Economics & Statistics",
       "published": "2026-11-05T03:00:00+00:00",
-      "age_hours": 26.8
+      "age_hours": 35.0
     },
     {
       "title": "China Dominates WIPO's 2026 Global Innovation Cluster Rankings - Alwihda Info",
@@ -280,17 +380,7 @@
       "source": "Alwihda Info",
       "category": "Technology & Inventions",
       "published": "2026-11-04T22:36:47+00:00",
-      "age_hours": 31.2
-    },
-    {
-      "title": "Anonymous $6M donations to UVA’s Manning Institute of Biotechnology will aid medicine research - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEp6OFp4QlhCV1MtcGNjZmJtRFRLMWVvREwyX3V1Rjl3ZV9NdGxMRjR4ZktIQ1l1OGpxek1jcWhObWR1N3E3ckhQUzIyS1h6U284bjRLUV9ZUlBVdjhMZzUxOWd2VDhDaVNiXy1aODJjZmJZQ3QyUDJDWGRuaEpOT1hrLVcxQ1hmTXVuRzQ1S2YwbmUzMnFBX2ZVWi1Ya0JsMm9xWUhYaVpNd2Q2QWZsUllpdFNRNE5OWE1jSTBn0gHSAUFVX3lxTFBCN3JMTEk0Nll6UDNpSG1scXpqeVN2dE42eFZvU2pXYmxXbzFyQ1Y3SVlkcDVLVlJkUF9DS1lyVmppWTl2aExDSUt6Z1YyNG9UQy1tSzVjRVRPQThHb3JJVEhSRENDRXpXb3FVdDdtcEpyYUhrWFNnVmNtRm8wT2xuQXR3dnBEWFVTWktaYTdLZW9xMzdSU3NFWE9OdEJpdUplbjRseWstd3FDWFpacDh2Y0lMVFYzQzNPRElPU3p2TVZDTXpGMVQ5Yi1kWXk5eFo4QQ?oc=5",
-      "description": "Anonymous $6M donations to UVA’s Manning Institute of Biotechnology will aid medicine research    WVIR",
-      "image_url": "",
-      "source": "WVIR",
-      "category": "Science & Medicine",
-      "published": "2026-11-04T22:35:00+00:00",
-      "age_hours": 31.2
+      "age_hours": 39.4
     },
     {
       "title": "Foundational gift accelerates Penn Medicine brain tumor research and care - BioBuzz",
@@ -300,7 +390,7 @@
       "source": "BioBuzz",
       "category": "Science & Medicine",
       "published": "2026-11-04T20:34:16+00:00",
-      "age_hours": 33.2
+      "age_hours": 41.4
     },
     {
       "title": "UMB Celebrates America at 250: Advancing the Fight Against HIV Through Discovery, Care, and Community - The University of Maryland, Baltimore",
@@ -310,7 +400,7 @@
       "source": "The University of Maryland, Baltimore",
       "category": "Science & Medicine",
       "published": "2026-11-04T20:22:12+00:00",
-      "age_hours": 33.4
+      "age_hours": 41.6
     },
     {
       "title": "Brain activity patterns may predict Alzheimer’s years before memory slips - Stanford Medicine",
@@ -320,27 +410,7 @@
       "source": "Stanford Medicine",
       "category": "Science & Medicine",
       "published": "2026-11-04T19:51:16+00:00",
-      "age_hours": 33.9
-    },
-    {
-      "title": "Norman Ng: Drug Discovery Is No Longer the Bottleneck - Healthcare Financing Is the Next Challenge - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wLUFvTFg3VWFKaHV4c1JrSlE4S3dFNjhFNDRvNWF1Y0lrTERhMmVzSmE3aTRZdGhNRFdPYkdDbmlRbjllSWRvVEE0V3BHLTI1R29sR2oxNzA?oc=5",
-      "description": "Norman Ng: Drug Discovery Is No Longer the Bottleneck - Healthcare Financing Is the Next Challenge    Oncodaily",
-      "image_url": "",
-      "source": "Oncodaily",
-      "category": "Science & Medicine",
-      "published": "2026-11-04T19:19:55+00:00",
-      "age_hours": 34.5
-    },
-    {
-      "title": "The Path to Compliance - Navigating Local Law 97 - CooperatorNews New York",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Zm5SMGw2elRlQ2lJQl9MUl9nUnIzOWFmM2RQSVhRZm95RVlpNno3NWZqNmNaRFpYTDhHQzNKRm91VWtQZE5NZVBqQTJ1aU1CZGMyTHljUDZvcFZFcjRLSmFkYVQ0WU1OblE?oc=5",
-      "description": "The Path to Compliance - Navigating Local Law 97    CooperatorNews New York",
-      "image_url": "",
-      "source": "CooperatorNews New York",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-04T18:46:49+00:00",
-      "age_hours": 35.0
+      "age_hours": 42.1
     },
     {
       "title": "Statement on the retirement of NIA Director Dr. Richard J. Hodes - National Institutes of Health (NIH) | (.gov)",
@@ -350,7 +420,7 @@
       "source": "National Institutes of Health (NIH) | (.gov)",
       "category": "Science & Medicine",
       "published": "2026-11-04T16:07:34+00:00",
-      "age_hours": 37.7
+      "age_hours": 45.8
     },
     {
       "title": "New company co-founded by Rice faculty member aims to move beyond symptom management in preeclampsia - Rice University",
@@ -360,7 +430,7 @@
       "source": "Rice University",
       "category": "Science & Medicine",
       "published": "2026-11-04T15:30:57+00:00",
-      "age_hours": 38.3
+      "age_hours": 46.4
     },
     {
       "title": "Who Won the Wisconsin Governor’s Race? Democrat David Crowley Defeats Republican Tom Tiffany in Decisive Midterm Victory - The Sunday Guardian",
@@ -370,7 +440,7 @@
       "source": "The Sunday Guardian",
       "category": "Politics & Public Policy",
       "published": "2026-11-04T14:57:59+00:00",
-      "age_hours": 38.8
+      "age_hours": 47.0
     },
     {
       "title": "What's next for WWF’s conservation priorities before Congress - World Wildlife Fund",
@@ -380,7 +450,17 @@
       "source": "World Wildlife Fund",
       "category": "Wildlife & Conservation",
       "published": "2026-11-04T14:56:09+00:00",
-      "age_hours": 38.8
+      "age_hours": 47.0
+    },
+    {
+      "title": "World Bank: 811 Million People Worldwide Live on Less Than $3 Per Person Per Day - صحيفة مال",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Vm1nWHJmVThHMXRJcERvSno5Q0hiT0xISk4zcGtlN1U2MXAyVTVnX2psX2NzekhSa2Fwb096SnZMOFhncV9Fc0lZY1hXVk5GdkNSTFBGd3prdnQwMDZIR0pyYzZGbGhNdkpr?oc=5",
+      "description": "World Bank: 811 Million People Worldwide Live on Less Than $3 Per Person Per Day    صحيفة مال",
+      "image_url": "",
+      "source": "صحيفة مال",
+      "category": "Economics & Statistics",
+      "published": "2026-11-04T14:38:18+00:00",
+      "age_hours": 47.3
     },
     {
       "title": "Pittsburgh’s Indiana Jones: Archaeologist discovered early signs of human habitation in Washington County - Pittsburgh Post-Gazette",
@@ -390,7 +470,17 @@
       "source": "Pittsburgh Post-Gazette",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-04T14:31:00+00:00",
-      "age_hours": 39.3
+      "age_hours": 47.4
+    },
+    {
+      "title": "Integrating sustainability into infrastructure - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFpkUnpIZEpfQXFuaWtGUWJKcmJIOTRsZEdWcU1Hb0ZrUGVUNlhzblVLQ1c1RlBKT1RlZTdkaV82a25qVEZERm90QWJKNlFqblQzLXJ1TUFuUkhpZ01heWo5b2tqcWxPNFZtd05uQ1pLVGI3dEhEWHVoTzhZdHE4SFZ3SDg2TW0wNnRMWUs4U3UxTW5lUXM4MkR2blF4REkyX0ZtNHpNRjDSAa4BQVVfeXFMTy16cUlaLTA3aGZxQXZsUHJtcHhHWTV2d1huQ1p0WlBpeGNCQWs4anVxbV90Z0tnd2xMeEU3S1laaXVhQ0RuMVd1aXA0ckl2T19KUkQ4MzlOQjQtOVdsU05xRW9aMExkUFhNVjBTZTd2YjVXc1BtYVljMUNPcDYxRE5IYlktX1NjWHJWbXRlN09tN2lHbnpQMGFpSm9RbGpSNnFWZm9ER3pBMllSWkhB?oc=5",
+      "description": "Integrating sustainability into infrastructure    The Manila Times",
+      "image_url": "",
+      "source": "The Manila Times",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-04T14:00:00+00:00",
+      "age_hours": 48.0
     },
     {
       "title": "A Grape-Sized Kidney Stone Reveals the Agony of a Man Who Lived 5,300 Years Ago - ZME Science",
@@ -400,17 +490,7 @@
       "source": "ZME Science",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-04T12:29:10+00:00",
-      "age_hours": 41.3
-    },
-    {
-      "title": "How Medical Breakthroughs Reach Patients - RealClearHealth",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUdLVG81RFphSENiTnh3LW5QYTBRLV9jWkN6LTd5WnpKV0l6Q1o1ajNJVGFUYjJmN0g2RURPUllsX3hDLWtYUDBvckpNVVRka25NTms5NEVOZVdGS1RxOUNVQ2xKX0JUZ1p2UGhRSklBRXQzVUtXWWN5dl9xVG9uMmtCcGk3SDRRMDVkSENBdXhpX2R5RE5TZ1ZtOGxXWWlTX1ZuenJUYW4?oc=5",
-      "description": "How Medical Breakthroughs Reach Patients    RealClearHealth",
-      "image_url": "",
-      "source": "RealClearHealth",
-      "category": "Science & Medicine",
-      "published": "2026-11-04T12:19:39+00:00",
-      "age_hours": 41.5
+      "age_hours": 49.5
     },
     {
       "title": "2026 U.S. Midterm Elections: What the Results Mean for Business - Edelman",
@@ -420,7 +500,17 @@
       "source": "Edelman",
       "category": "Politics & Public Policy",
       "published": "2026-11-04T12:00:00+00:00",
-      "age_hours": 41.8
+      "age_hours": 50.0
+    },
+    {
+      "title": "ENDPOINT: New Tests and Treatments for NTDs | LSTM - Liverpool School of Tropical Medicine",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hZFplRWFZelVWVEh6amNDcXVxQ2NESWR4V2Z0RnRydDZxWk1XMXhMdkZyVFNmdlo5YlZjeHZmZ3ViTjFDWUl3bFV4YlpoR1AyRl90eDBqYnpSR290LU80NUluX1A4Rk5xbUhYUzdQcjE4b2RQYlg4Sw?oc=5",
+      "description": "ENDPOINT: New Tests and Treatments for NTDs | LSTM    Liverpool School of Tropical Medicine",
+      "image_url": "",
+      "source": "Liverpool School of Tropical Medicine",
+      "category": "Science & Medicine",
+      "published": "2026-11-04T10:31:40+00:00",
+      "age_hours": 51.4
     },
     {
       "title": "OPINION | India's Household and Its Poverty Decline: The asset others are paying to rebuild - Moneycontrol.com",
@@ -430,7 +520,17 @@
       "source": "Moneycontrol.com",
       "category": "Economics & Statistics",
       "published": "2026-11-04T08:08:29+00:00",
-      "age_hours": 45.6
+      "age_hours": 53.8
+    },
+    {
+      "title": "After Years of Mystery, Scientists May Finally Be Able to Explain Why Statins Cause Muscle Aches - Prevention",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGpMaHE5OTJTdzNqN0t6UVExWUxXcUs4cFlkdHBXWmZ4Yk1pRW53S2VJQVZJNWpQREtPckpTVkJsTzdERzBULVVMR2tGSTNhdXlKVHBDb3BxSEVzRE1oWnU5ZjVMVEVwckczRU43b0FsSndvbnVad1hzQzdTZTlHdDl0cnFBTGNGMnBta0pBNEp6UFdsenV6ODUxTEJJSmNxUlQ2Tw?oc=5",
+      "description": "After Years of Mystery, Scientists May Finally Be Able to Explain Why Statins Cause Muscle Aches    Prevention",
+      "image_url": "",
+      "source": "Prevention",
+      "category": "Science & Medicine",
+      "published": "2026-11-04T08:00:00+00:00",
+      "age_hours": 54.0
     },
     {
       "title": "Top 10: Sustainability Innovations - Sustainability Magazine",
@@ -440,7 +540,7 @@
       "source": "Sustainability Magazine",
       "category": "Technology & Inventions",
       "published": "2026-11-04T08:00:00+00:00",
-      "age_hours": 45.8
+      "age_hours": 54.0
     },
     {
       "title": "India has reduced poverty, but are families financially secure? - The Indian Express",
@@ -450,7 +550,7 @@
       "source": "The Indian Express",
       "category": "Economics & Statistics",
       "published": "2026-11-04T07:30:40+00:00",
-      "age_hours": 46.3
+      "age_hours": 54.5
     },
     {
       "title": "India Records Major Decline in Poverty as Nearly 500 Million People Move Above Poverty Line: World Bank - Dainik Jagran MP CG",
@@ -460,7 +560,7 @@
       "source": "Dainik Jagran MP CG",
       "category": "Economics & Statistics",
       "published": "2026-11-04T06:38:49+00:00",
-      "age_hours": 47.1
+      "age_hours": 55.3
     },
     {
       "title": "India Achieves Significant Poverty Reduction Amid Rising Inequality - India News Network",
@@ -470,7 +570,7 @@
       "source": "India News Network",
       "category": "Economics & Statistics",
       "published": "2026-11-04T05:44:47+00:00",
-      "age_hours": 48.0
+      "age_hours": 56.2
     },
     {
       "title": "The Future of Work in the Age of AI - United Nations Development Programme",
@@ -480,37 +580,7 @@
       "source": "United Nations Development Programme",
       "category": "Economics & Statistics",
       "published": "2026-11-04T04:05:01+00:00",
-      "age_hours": 49.7
-    },
-    {
-      "title": "Sanusi, Peterside, Adesina, Tijani, Oteh: Nigeria Must Move Beyond 4% Growth to Tackle Poverty - The Gazelle News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU9BMzJmS041OFJ5SHhxbUF5cmdSQTZCbTlXNldTQWZSTVZoS0tXRjdmLXFTNllxS1FNX0lyYkhqQ3o0NFBLMWpWVjJZNlpyVkZsSnZ4UFZKVVBlMGkxdmw2akwxY3pKbkJGNDdMMWR1aEFROW1La2w1RzJ4ZmoxUFg5TE1kaW1VZjdCWkN1MlVYN3VqbG44blpuaGdNdFJGVGpHNE9GMjFqbFpibzRxTkpVd082MEFQRF9RNw?oc=5",
-      "description": "Sanusi, Peterside, Adesina, Tijani, Oteh: Nigeria Must Move Beyond 4% Growth to Tackle Poverty    The Gazelle News",
-      "image_url": "",
-      "source": "The Gazelle News",
-      "category": "Economics & Statistics",
-      "published": "2026-11-04T03:53:16+00:00",
-      "age_hours": 49.9
-    },
-    {
-      "title": "Stakeholders proffer what Nigeria must do to beat poverty, create jobs - The Guardian Nigeria News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlAtZG0wNzlxOGdodDFHSHJPTDFoVl9wSHNwVERyOGxheEQtRkM3aGRPY18xSGNDbUFQQ0haNl92UnhDZ2hOTk1VcTEzZTJObllucll2MExlWmZ6dHRkQ0E2UThCZWtkRi1UX1JnNVkydEFhcGJXZFZXNENERGVaNmNXczJWMWtlSnh3Vk9HV1F3TG9KN2U1TGdXWVU4Vk1Wd3UxWkxuMDZrdTF1?oc=5",
-      "description": "Stakeholders proffer what Nigeria must do to beat poverty, create jobs    The Guardian Nigeria News",
-      "image_url": "",
-      "source": "The Guardian Nigeria News",
-      "category": "Economics & Statistics",
-      "published": "2026-11-04T03:00:15+00:00",
-      "age_hours": 50.8
-    },
-    {
-      "title": "Maker Movement to help drive innovation, youth engagement in Qatar | Gulf Times - Gulf Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhNdmJvZHI5VnhOYnc5NlQtQ2Q2SHo3N2NIYTFLWE9aYXJSNlVJMUtlUUVlSWVzS3diTWRIb2xReDRTblcxMmY5dEdwN05ubVdGVHhmN2kwV2t4MFFPcS0wa042YWJySmRzX0cwX0R6VmdMZzdrYVEtTVRuRC13SjhScFVLVlFHSEVuZjVlZXNqTHlTODNhSXVVZTZzUVlDZFhsUjgyN0hyS2RZdHJwU05ZOWh4ME3SAbwBQVVfeXFMTUs4dHB3bXpUb2RhUEpoWEJkM1ZHRzZWdXE3NkEyT3V0Uk5kVG5jdkZBMFhDRkFfSE82MFBMWWpNNk11YTZCQU5ONmdiTW1zbG9tMDFieXNpR0g2VERmb1RvVmNPeDB5QXVDOXBMaGFlTmFjODhQZkJnMkhiQWZEc0tNclI5NUNleWotaU5CeUFqVFRnVjdMU04zendHbUxfRTljaE5OZGVYYU13VVVLSnFNMmhYclFOVlJyUnk?oc=5",
-      "description": "Maker Movement to help drive innovation, youth engagement in Qatar | Gulf Times    Gulf Times",
-      "image_url": "",
-      "source": "Gulf Times",
-      "category": "Technology & Inventions",
-      "published": "2026-11-03T20:49:00+00:00",
-      "age_hours": 57.0
+      "age_hours": 57.9
     },
     {
       "title": "How India pulled 500 million people out of poverty as inequality deepens - Al Jazeera",
@@ -520,7 +590,7 @@
       "source": "Al Jazeera",
       "category": "Economics & Statistics",
       "published": "2026-11-03T18:49:37+00:00",
-      "age_hours": 59.0
+      "age_hours": 67.1
     },
     {
       "title": "Liberia’s Economy Grows 5.1 Percent, but More and Better Jobs Are Needed to Reduce Poverty - World Bank Group",
@@ -530,77 +600,7 @@
       "source": "World Bank Group",
       "category": "Economics & Statistics",
       "published": "2026-11-03T18:44:09+00:00",
-      "age_hours": 59.0
-    },
-    {
-      "title": "Energy affordability tops voter concerns in election set to shake up Congress - Utility Dive",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHhNY0VKUUcwVkh4N0s2WURod09aaTk0b1NyUkhIQzZxa2cybXR1WkNaZGd5cEdfTkZDMlBuUVVuM3hndTdLU2l2Q1hTV1hSelkxSmhTT1RMYWNxMDRZSndxeFdXUjhteU4wQV9qRnkzSjh6R0pRQjE5bnQ2NzgwWVRYcG9jTWMxSU5SVXBqcEZlV1QyU2hLUTFpdkp6YXF3YkZCR25ST1Y2TTg?oc=5",
-      "description": "Energy affordability tops voter concerns in election set to shake up Congress    Utility Dive",
-      "image_url": "",
-      "source": "Utility Dive",
-      "category": "Politics & Public Policy",
-      "published": "2026-11-03T17:50:25+00:00",
-      "age_hours": 59.9
-    },
-    {
-      "title": "How the NIH Common Fund Data Ecosystem Could Accelerate Scientific Discovery - University of Colorado Anschutz",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmc0QW5JMWo3eWthbTBaMlJYMnF4V25jUHpPMHhrR0dsTWJUajR5LWtvNmxQYWlVYmFVYmNVTlZUTks5dnlDeDVrODNQbEE2bFZwTU5teWwzcVhlR1BOSkMtODh3R2pCV1YxNXdLc0Vhbi1PcVJmNUtHQkttbkNWSDJlVldWRkNyYTl1d2tVdWppbWVpTjVpTUU4MmttWHQyOWo2VGk0OWFCRWZYYjlaODZzdzBsLTJvanB1SlVQbkpXZHpEUHRHONIByAFBVV95cUxPcmc0QW5JMWo3eWthbTBaMlJYMnF4V25jUHpPMHhrR0dsTWJUajR5LWtvNmxQYWlVYmFVYmNVTlZUTks5dnlDeDVrODNQbEE2bFZwTU5teWwzcVhlR1BOSkMtODh3R2pCV1YxNXdLc0Vhbi1PcVJmNUtHQkttbkNWSDJlVldWRkNyYTl1d2tVdWppbWVpTjVpTUU4MmttWHQyOWo2VGk0OWFCRWZYYjlaODZzdzBsLTJvanB1SlVQbkpXZHpEUHRHOA?oc=5",
-      "description": "How the NIH Common Fund Data Ecosystem Could Accelerate Scientific Discovery    University of Colorado Anschutz",
-      "image_url": "",
-      "source": "University of Colorado Anschutz",
-      "category": "Science & Medicine",
-      "published": "2026-11-03T17:33:21+00:00",
-      "age_hours": 60.2
-    },
-    {
-      "title": "Tejasvi Surya targets Congress, bats for growth at Hubballi youth meet - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTzRmR0ZOb2hWSlJGekR6bkZFV3JxLW9tQ2FpUWRXZkNXSjE3T25UMGdydjg4S0tVZ01QTzRBck1YMUZzM01scHVzVmUtcFlLWklEbk5zeVZxZnY4VGw1UHVhZVhWSzh2b29EN2tXTkhlRTR0b0xDTVowMnNNSWxzVmp2ZS1LdTM0TmxtNDJuX1ZOSDVwNnM2WVhSMTRBa0RPRC1GbkxWSUxteVJuNnl2TnVHZ3NIOGhuaTZVWEJFcER4VFRfOXRCNjFJNnVkSE9kenNjaG9KWjZ0c1g1dkHSAeMBQVVfeXFMTkRvSmJhWU9jTTVjcHVYOXhJY2lBNmgwRnNEbWdyZmpGbXNQWkVfdExrTGxaQnlubXlKTU1ybDFWRllIQnNvN05McW11dEVmb3FEZ0l4ZndvSUtnV3ZMOTlqRFQ4a1VmY1FEbTkxLVJhVWNvc01WcHRpWU1aUGdCUEZXaGdBUXB4enF4QlVwa0wzVTZsMWNrWUFPdE1YUDVpak4tdnhxVTFqZFkwZS05ZmtsTkl4U0hOVkd3NEM3LVdDcWNLbURRUkJqemtfWVlhNjBMMDdjdlBYOTJYdUd0d0RYdTA?oc=5",
-      "description": "Tejasvi Surya targets Congress, bats for growth at Hubballi youth meet    The Times of India",
-      "image_url": "",
-      "source": "The Times of India",
-      "category": "Economics & Statistics",
-      "published": "2026-11-03T17:15:00+00:00",
-      "age_hours": 60.5
-    },
-    {
-      "title": "PRESS RELEASE: New Study Reveals 300-Fold Recovery of Peruvian Diving-petrel Following Island Restoration in Chile - Island Conservation",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTHJBelNtVXJXeTJaSmg0WmZmRnNsVExId0laV3JSRE84WHJkelowd250a3dYUVUtU05XWjZPVnRGNmtvNXpfYjlfel8zV1JTazlfVlEzelNCRHRuYXBYaEdVc1NNN05DRXQ1WmFyU1dGQWVwdFdEd2FQQ3dYa0xPLVFrZDF2cVpzM1hkZUQyQldtMDEwRVhNcGFCVm83alo4UGotRzZzU0xTbk1fTWp6YmZMazRZWm9WOTBqVDE3ZlFnSTVJbmhIc3hWNmEyTlhFd2FkZVJaRXdzSThEU2FlVWt4QQ?oc=5",
-      "description": "PRESS RELEASE: New Study Reveals 300-Fold Recovery of Peruvian Diving-petrel Following Island Restoration in Chile    Island Conservation",
-      "image_url": "",
-      "source": "Island Conservation",
-      "category": "Wildlife & Conservation",
-      "published": "2026-11-03T17:08:01+00:00",
-      "age_hours": 60.7
-    },
-    {
-      "title": "Sanusi, Peterside demand 10% economic growth to lift Nigerians out of poverty - Tribune Online",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1NsbzkwSWlHdnVrdE1CbUVzYnplalp4Uk5EOHpEbFdpVktnU3VkN3A4YkRaaHV3U2VLQjdNMGVocllSelNnMHU3cC1EOVFwLW90aDc5eU0zMGFPLWhZb0xFaXlUSTIzVmhIOTdfWFNvbFFXYlRCYnhOU0dnMmtFYlo1MWZTbEJKdzl3OW5qeU9Md1ZPRkVHeEt1SDVlMXI3SEZobkxjbw?oc=5",
-      "description": "Sanusi, Peterside demand 10% economic growth to lift Nigerians out of poverty    Tribune Online",
-      "image_url": "",
-      "source": "Tribune Online",
-      "category": "Economics & Statistics",
-      "published": "2026-11-03T15:41:53+00:00",
-      "age_hours": 62.1
-    },
-    {
-      "title": "Bharat’s Extreme Poverty Falls 24.5% in a Decade - HinduPost",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNUotVEwyYzNvVFFGd2UwNGFTMU96WC1fS09RdHJ6RGg4ZXA0MG1QSkhORjd2NEVvcVAwUDBRcWx4eFZGdEF3dzV6QnBVQnlQU2lUc25LMDhCdXFJZ0traTJxTklfSDRqZEN0d1N6M0luM0ZjcEZn?oc=5",
-      "description": "Bharat’s Extreme Poverty Falls 24.5% in a Decade    HinduPost",
-      "image_url": "",
-      "source": "HinduPost",
-      "category": "Economics & Statistics",
-      "published": "2026-11-03T13:15:00+00:00",
-      "age_hours": 64.5
-    },
-    {
-      "title": "The Ganges dolphin is a UN restoration success story. How do you save a species? - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzZ1MUd3ME1DQjZXcC1oeXk2WnJxV2tWT0daSElVbnd2RUJSblJDT291bjNCM2dwOWFrZ2kwRkpQNmlxYlpNNi15SUxjb09QWThWRzRmcDYxd0pnc0ZlMnRCMVZPaFluYWdXdDAxdzZ6eHI5eHQ0Z09feFN4ZUpDX1d6cG1PaFd2QUppZ3NMTjdMNllEQ1pLMjRGNDkxNTZZNTFjU0pLcXFONUNpUUZiYWxWUVNrTDhpZzcyR0tBOTh3bEZD0gHKAUFVX3lxTE10Y2ZfdWxYX2o1VFh3OTFCWjhKcVpadVZ2QlpsRFJxOU15a3dTazVTeUF3dVBVQ2hCdUc5VnR5Q0dKSEo1aHp6dW5qYW1Yb2VqcnZwQzBiN3NudFJ2MGNsYVpKUDBXX1RPb19WWm5TOWx2X2xwdXhIeDU1RHBQQzViZmtqRnFrLW9QRzlhZ3FGUDlUT3BrNDR4dHFFVjRBbGNlRHR2NDJDd0VQNHFMTDEyeGdhbGdtRHRZaDlLTHY0X1VZTThqdHhDUlE?oc=5",
-      "description": "The Ganges dolphin is a UN restoration success story. How do you save a species?    ThePrint",
-      "image_url": "",
-      "source": "ThePrint",
-      "category": "Wildlife & Conservation",
-      "published": "2026-11-03T12:35:59+00:00",
-      "age_hours": 65.2
+      "age_hours": 67.2
     }
   ]
 }
