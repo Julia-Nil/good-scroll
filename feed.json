@@ -1,16 +1,116 @@
 {
-  "updated": "2026-11-11T13:49:51.862965+00:00",
+  "updated": "2026-11-12T00:15:52.773413+00:00",
   "count": 60,
   "articles": [
     {
-      "title": "Somalia, Qatar Discuss Environmental Cooperation at COP31 as Partnership Broadens Beyond Security - FTL Somalia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORVBWeURoNlZ1a3BEa3JqWTlGSGlnS0RGYXQyamJwaDNfd0l2QmU5SmhCdTh1N0ZUS09aUjFkaTlOUVdmUXV0UnlvcUM2M1p3OC1ZaExxSlVZdjU0UVNEZUlvNUpvTFFJeXUwc01VbDFtMG5tUlBvc2xISXQxVFoyTnh3a3ZhLXNMQWNqY3gyUm1XRC01azRoS1JSTUxsY3EzSGlPTk1LRXVjdjlDVUI0VGU0aXFCR0h5WkF4WlUteHV3dw?oc=5",
-      "description": "Somalia, Qatar Discuss Environmental Cooperation at COP31 as Partnership Broadens Beyond Security    FTL Somalia",
+      "title": "Abdulrahman Al-Ansary: How a Saudi Archaeologist Built a Scholarly Tradition to Uncover His Country's Past - ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUVmRWU0SjBrWHNlS21aMlM2SmstdGJmNmlDdGl4aHMtREZTT0NoeVVka0tYS0RYM0pybFlidlVZd2wtZW11ZTFfS3pHTGF6dHdPVFNpeDBDWDV1bjRoaGN2OGRfSDFpVFZ2bXNaVFFtSFZnOUNLNGdXa2dEXzBJVWtFX0hFZmZKUnBZQjF4bFpNODdFbEN1eVRfam92Y2JscFNlZkYydldXaVU3QjFLTGtiRmt5WkhFWU5kSG9iUjFReWVk?oc=5",
+      "description": "Abdulrahman Al-Ansary: How a Saudi Archaeologist Built a Scholarly Tradition to Uncover His Country's Past    ASHARQ AL-AWSAT English",
       "image_url": "",
-      "source": "FTL Somalia",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-11T13:00:08+00:00",
-      "age_hours": 0.8
+      "source": "ASHARQ AL-AWSAT English",
+      "category": "Archaeology & Anthropology",
+      "published": "2026-11-11T21:41:58+00:00",
+      "age_hours": 2.6
+    },
+    {
+      "title": "Study Confirms BMI Alone Can Miss Important Health Risks Associated with Obesity - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMEdORHMzWHBiTXVEbF9vMTJuZGt2NmFrOWZUSUxUOXlpbm5rdkQtQVhLVkdkZlRRYUIxWjJmN3dkeGt5bUhHcC05eHJpdUh1bnZCcHVpelc5V091UWRZS3FzaXZ6d2F6cVVUZTlFdzRLWTBwdEdoRDZvbnZrNlFhdjhWczcyRThjQzR3OWZmdlFXekJtNlc3V2UxUUZvaWdScHlaVklrMWFmanNva0dHQjlzU2lOUkEwOFNFbGFEeHdLU3luZWdRWm5jUUN4U25VQWc?oc=5",
+      "description": "Study Confirms BMI Alone Can Miss Important Health Risks Associated with Obesity    PR Newswire",
+      "image_url": "",
+      "source": "PR Newswire",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T19:27:00+00:00",
+      "age_hours": 4.8
+    },
+    {
+      "title": "Hope for Depression Research Foundation Announces Precision Psychiatry Initiative at 20th Anniversary Event - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUEVmWU1zT2tSZlU2aVc2WEN1S0cxeXpXUHFIZlFFSzN0T3RsenlaMFNsY05nMVBQZTR2TWVLdi1sWHNoVHQzNGpsa2VIZGUxTjBYQVVvd3ZwNHR0SmljOW5fQ09HaW9SN2NZOTNCSEhvQ0VaQW4tZkVNUFEwaVg4aTNXMi1GZDlWZDZIMUxqLThEeHlqRjZTLUFkSFdiRjlLTmxSUUlhNHJod2tYQnFacFZMRC1aRVdtZGlwdHdENEtqVS1FZDY5ZlhmdndQMENFSFFwT2dtRTJBM2NOVE1WeURvNDF0NWhuV09pM0pzRWtwZHRuUHc?oc=5",
+      "description": "Hope for Depression Research Foundation Announces Precision Psychiatry Initiative at 20th Anniversary Event    PR Newswire",
+      "image_url": "",
+      "source": "PR Newswire",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T18:00:00+00:00",
+      "age_hours": 6.3
+    },
+    {
+      "title": "UT San Antonio hosts international brain health conferences advancing research into dementia, stroke - UT Health San Antonio",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZzgwMEduMWhCelZwNGJtcmhsSVJVVUtQYWg0WDdkOTlkNVNtRlhKRUIxWHprNUxmZ1NOb21QLVhFZFl3UUF1Zjl4Z2VXMGpVV2dQbGNicDFXMFREY3RVYmloN3pUS2dQdDVlenhCanJtcVNucU85QU5lQXRDaUY0VmY2bTV4c1p1T3gyUzVXT29rQVNYU0xPOGZaVm92UlBSQXZ3LVFTNWZBT2MxS2xCaUoxSjRkV3JkN1p1Sl9ERVNqMTg?oc=5",
+      "description": "UT San Antonio hosts international brain health conferences advancing research into dementia, stroke    UT Health San Antonio",
+      "image_url": "",
+      "source": "UT Health San Antonio",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T17:00:15+00:00",
+      "age_hours": 7.3
+    },
+    {
+      "title": "Nicklaus Children’s Hospital and Florida International University Unite Global Leaders to Accelerate Innovation in Congenital Heart Disease - Florida Hospital News and Healthcare Report",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYUlnNTdpcnpQZDNjN1dVVndRTkNGMG9sTG8zNVB6NkMwak1YZWx4N0FmQU1sWTBqbUk0V1dETHdBLV9oT1RsMHlicko1YUUxWUh4aXcybnJRTGFHQ1FNTFB6ZGhrU21NdGpRMXNVLXRtSlBremdHR1Y0dzI5dDJVRzI3VU8tNkNScjQ3VlNPTVFBUFp2eXdmQ0R4TEJ5R3I2ams0c3RsZGdMYWp1NVpsdXFST0ViWjRSYmNqTkVCYm1hZGtMN0xLVDY4WEJEVDAwcFBxUC1hRFBrZkJfaE1aTDMtMjVVN0hjUUJzYWZjaVNtMXRQemZma3JubXcxejBwclB4RFRQYVFXWFhLRFJENjVsdDhCaUhI?oc=5",
+      "description": "Nicklaus Children’s Hospital and Florida International University Unite Global Leaders to Accelerate Innovation in Congenital Heart Disease    Florida Hospital News and Healthcare Report",
+      "image_url": "",
+      "source": "Florida Hospital News and Healthcare Report",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T16:01:07+00:00",
+      "age_hours": 8.2
+    },
+    {
+      "title": "Butterfly's 900% boom in Corby wood as larvae 'turbo-charged' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84TTN3MWhCZG1Yb3ZkQ1J3N0NGSGdqOG5KaDJYZjlQU1FEZF9FOV9jVm0wbWxjYlVwSG5idkFNd3NySUVBNjYzV1M2NmxNTEVSWUFBY2FrZXU4VFE?oc=5",
+      "description": "Butterfly's 900% boom in Corby wood as larvae 'turbo-charged'    BBC",
+      "image_url": "",
+      "source": "BBC",
+      "category": "Wildlife & Conservation",
+      "published": "2026-11-11T14:20:17+00:00",
+      "age_hours": 9.9
+    },
+    {
+      "title": "How Singapore lab advances discovery and approval of rare blood disorder therapy - Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWJIUkU2NmFCQmlxRXlxQkZwRl9GbGF3REZJSm5aWG5OZS1RcHhuUjk0WTB0b21HUTlydXd3elNoc2xKellsazdENVctV3UtTU1BMjVuZ2Uzb2hic181WlVSVXRSZ05za1VpZnN1Sk5pUnFnV0pqQUpkd3RER0EtMUlJNVB4cnhNQURFTjFOR2Y3VjFlSjJJRVpmb0NZcjQyM3NVUmF2bWFQcnhfS0tCZF9qWHdfd1REVW4wN1VBS0JqSkRCU0t2a253?oc=5",
+      "description": "How Singapore lab advances discovery and approval of rare blood disorder therapy    Singapore Economic Development Board (EDB)",
+      "image_url": "",
+      "source": "Singapore Economic Development Board (EDB)",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T14:19:08+00:00",
+      "age_hours": 9.9
+    },
+    {
+      "title": "India records major progress in fight against poverty - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWhhT2JON194WkhYQlk5OE5IUFFmN1BkcWROR0l0empWODJXcmhEeDd2V2I4WEdTNzJBeFBpb2RCRU1PcHVfY2ZrTjJqa3BQalB3ZURWZjJDcTkwckk1a3hLYXdscllwTW90S09zR19JenV4RTBPaHRoOXNYMEJyZVQteWtMdw?oc=5",
+      "description": "India records major progress in fight against poverty    Capital FM Africa",
+      "image_url": "",
+      "source": "Capital FM Africa",
+      "category": "Economics & Statistics",
+      "published": "2026-11-11T14:17:36+00:00",
+      "age_hours": 10.0
+    },
+    {
+      "title": "C. Ola Landgren, M.D., Ph.D., Named Recipient of the 2027 Precision Medicine Pioneer Award | Newswise - Newswise",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVjl1WDhxTERsWDZ6aFowajFRbmstU3B1a05ZUjJudV91d2ZrR2h5REhnam9FZDVoTmwzVGluRFFQWDNlaXYzdWQ0WC1XS0lCQVA4WWtsczB6Mnh2eUhndzhHZVZDTV84UHY5QjZGU195OGxmd1UzUkNZenFicFZJWHdfOXVSS3hsVUVTMVMwaWV3YV83WmNoU3dNWjdqT2wxOTFJSmk1emlIa3dfWG5rUlVyT01WX1U2MHfSAboBQVVfeXFMTVY5dVg4cUxEbFg2emhaMGoxUW5rLVNwdWtOWVIybnVfdXdma0doeURIZ2pvRWQ1aE5sM1RpbkRRUFgzZWl2M3VkNFgtV0tJQkFQOFlrbHMwejJ4dnlIZ3c4R2VWQ01fOFB2OUI2RlNfeThsZndVM1JDWXpxYnBWSVh3Xzl1Ukt4bFVFUzFTMGlld2FfN1pjaFN3TVo3ak9sMTkxSUppNXppSGt3X1hua1JVck9NVl9VNjB3?oc=5",
+      "description": "C. Ola Landgren, M.D., Ph.D., Named Recipient of the 2027 Precision Medicine Pioneer Award | Newswise    Newswise",
+      "image_url": "",
+      "source": "Newswise",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T14:00:00+00:00",
+      "age_hours": 10.3
+    },
+    {
+      "title": "Early humans collected keepsakes 500,000 years ago, study finds - Archaeology News Online Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1ZoUm9JWkdHbDc3ZVhpMm9UZE54MnN1NURhMm1PeU5VNEswMmNTYXlPTXVDc2dQMjZxUTdtbzN3V3AtVGxSRWRGRGVGOFpFMl9YXzBXS09sYzRiZTJzNV8zVFJKeEFTUkxVTExaWGM4UURmTnRvODN1YUVaQmdubU82WUhoQQ?oc=5",
+      "description": "Early humans collected keepsakes 500,000 years ago, study finds    Archaeology News Online Magazine",
+      "image_url": "",
+      "source": "Archaeology News Online Magazine",
+      "category": "Archaeology & Anthropology",
+      "published": "2026-11-11T13:54:54+00:00",
+      "age_hours": 10.3
+    },
+    {
+      "title": "Lupus Research Alliance Awards Lupus Insight Prize for Critical Discovery of TLR7 Immune Control Sensor Failure Driving Lupus - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPX0dJbjBsZlZBaFNaSjdDdjZOLVdrZXNkV1NGMDV3OW5qeW1sc2kyWjBuSU44aUE4NzMySFo3dldMdTcySmxVZGdaSlduQ2lPTFVUVmliQTJwdEhjcUJwakhGbEZDNXE5OHpvejZTRzZSVC1VakpQdmpHYUF4VVEyakw0R2lVNEQxS19ENXpvRWM0Q0VFRmV2RTZ6X1JGR09IOXQ2NjRTRUVBalNaNDJ4OTUxNWt2NjFURkdHTWpFYl9JZUNmWG80cjVFUVJRQUpQZ09yWkNienVoYVNFcG44SEZFekZORlVic0YxcVZrM1hzbjJZTE5acGdRWnlOUEFDUW5sdWtreTBhUk9PWEE?oc=5",
+      "description": "Lupus Research Alliance Awards Lupus Insight Prize for Critical Discovery of TLR7 Immune Control Sensor Failure Driving Lupus    PR Newswire",
+      "image_url": "",
+      "source": "PR Newswire",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T13:33:00+00:00",
+      "age_hours": 10.7
     },
     {
       "title": "AI to bring medical breakthrough? Anthropic CEO claims cancer, Alzheimer's will be history in 10 years - India TV News",
@@ -20,7 +120,7 @@
       "source": "India TV News",
       "category": "Science & Medicine",
       "published": "2026-11-11T12:36:37+00:00",
-      "age_hours": 1.2
+      "age_hours": 11.7
     },
     {
       "title": "WTTC Welcomes EU Sustainable Tourism Strategy and Calls for Stronger Public-Private Collaboration to Deliver Its Ambitions - Hospitality Net",
@@ -30,7 +130,7 @@
       "source": "Hospitality Net",
       "category": "Economics & Statistics",
       "published": "2026-11-11T12:35:30+00:00",
-      "age_hours": 1.2
+      "age_hours": 11.7
     },
     {
       "title": "Rising global poverty reinforces need for targeted human development investment-INP - Independent News Pakistan",
@@ -40,7 +140,7 @@
       "source": "Independent News Pakistan",
       "category": "Economics & Statistics",
       "published": "2026-11-11T11:37:39+00:00",
-      "age_hours": 2.2
+      "age_hours": 12.6
     },
     {
       "title": "Animals on the brink of extinction can be rescued - Kids News",
@@ -49,8 +149,18 @@
       "image_url": "",
       "source": "Kids News",
       "category": "Wildlife & Conservation",
-      "published": "2026-11-11T08:02:29+00:00",
-      "age_hours": 5.8
+      "published": "2026-11-11T08:06:49+00:00",
+      "age_hours": 16.2
+    },
+    {
+      "title": "Financing Cancer Discovery Research: Models to Accelerate Breakthroughs - Milken Institute",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEZRQjVHTzM4QWUxd1MwX1NvWXR0SlNMVllIbmI3OHBJckZ0OEhnRWY4czZONWczaU1uOTg4eWxIM3psQ2hIRGFkWmQzbld2TVV3RXVySXZ6bkpJa1RScktrY2g5Yl9PR0VhUnVtRi01eDE4S2lVd2dpZEVIR2x2V2dzeGoyNGVLSXdnVm5wQkhJZGhEMnVRdDRWUXZKNGF1U3dFaG9KYi1lellFWDNLQmhVeTFrdzZzUjJoNmUxWnczWXZZV3RyWVFyWEdGQmNobFE?oc=5",
+      "description": "Financing Cancer Discovery Research: Models to Accelerate Breakthroughs    Milken Institute",
+      "image_url": "",
+      "source": "Milken Institute",
+      "category": "Science & Medicine",
+      "published": "2026-11-11T08:00:00+00:00",
+      "age_hours": 16.3
     },
     {
       "title": "The Future of Work in the Age of AI - United Nations Development Programme",
@@ -60,7 +170,7 @@
       "source": "United Nations Development Programme",
       "category": "Economics & Statistics",
       "published": "2026-11-11T07:12:35+00:00",
-      "age_hours": 6.6
+      "age_hours": 17.1
     },
     {
       "title": "Years Before Clinical Trials The Decisions That Shape The Future Of Academic Cancer Discoveries - Clinical Leader",
@@ -70,7 +180,7 @@
       "source": "Clinical Leader",
       "category": "Science & Medicine",
       "published": "2026-11-11T06:49:03+00:00",
-      "age_hours": 7.0
+      "age_hours": 17.4
     },
     {
       "title": "Inland Fisheries Ireland commits more than €1m to river restoration in 2027 - Water Magazine",
@@ -80,17 +190,7 @@
       "source": "Water Magazine",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-11T04:15:57+00:00",
-      "age_hours": 9.6
-    },
-    {
-      "title": "500,000 indigenous trees to restore 500 hectares of Palawan’s Cleopatra’s Needle Critical Habitat through Conservation International PH and GCash GForest - SunStar Publishing Inc.",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVWJnb0hiOWlpWk9IckRocW9LTHVkUmZMMjBaZFFBZm5VY2pzTUgxM01zb25VeEc4MVZrWUpqVy1UMDRGQlpiWFhDTVVLQzRHNThPSW1keVhMVVZDQXlkS1BQTENqWnc3V1VlbG82ME5id0hnVTgtVWNkVjZEcERybjk0VDFIaUZVZ2YtTHozc2hXUkVEdTlYWmtFUk9lSENyd0lRX0ZaZ0QxV1dBWW9CU2lZRUFjOFlsTnVKOVRmcDJKN2l6ajVYUmVRTklZRVVIV05wUHNDSndCNXMzRnR2T3hySW9Xa2dHZExybjFrdFRlYWNrTDlGdjQ0X1NqLWZXUlMzWl9vZ0tBazVzZS1yOWtIbUVIdVYxdnlTcVdJS2U3QdIBogJBVV95cUxQVWJnb0hiOWlpWk9IckRocW9LTHVkUmZMMjBaZFFBZm5VY2pzTUgxM01zb25VeEc4MVZrWUpqVy1UMDRGQlpiWFhDTVVLQzRHNThPSW1keVhMVVZDQXlkS1BQTENqWnc3V1VlbG82ME5id0hnVTgtVWNkVjZEcERybjk0VDFIaUZVZ2YtTHozc2hXUkVEdTlYWmtFUk9lSENyd0lRX0ZaZ0QxV1dBWW9CU2lZRUFjOFlsTnVKOVRmcDJKN2l6ajVYUmVRTklZRVVIV05wUHNDSndCNXMzRnR2T3hySW9Xa2dHZExybjFrdFRlYWNrTDlGdjQ0X1NqLWZXUlMzWl9vZ0tBazVzZS1yOWtIbUVIdVYxdnlTcVdJS2U3QQ?oc=5",
-      "description": "500,000 indigenous trees to restore 500 hectares of Palawan’s Cleopatra’s Needle Critical Habitat through Conservation International PH and GCash GForest    SunStar Publishing Inc.",
-      "image_url": "",
-      "source": "SunStar Publishing Inc.",
-      "category": "Wildlife & Conservation",
-      "published": "2026-11-11T03:19:02+00:00",
-      "age_hours": 10.5
+      "age_hours": 20.0
     },
     {
       "title": "Cooper Green Team Donates $5,000 to Denver Nonprofit We Don't Waste Following 100 Heat Pump Installations - StreetInsider",
@@ -100,7 +200,7 @@
       "source": "StreetInsider",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-10T23:58:54+00:00",
-      "age_hours": 13.8
+      "age_hours": 24.3
     },
     {
       "title": "Ancient keepsakes may have helped shape human memory and identity - The Brighter Side of News",
@@ -110,7 +210,7 @@
       "source": "The Brighter Side of News",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-10T21:07:00+00:00",
-      "age_hours": 16.7
+      "age_hours": 27.1
     },
     {
       "title": "Engineering Innovation Takes Center Stage at 2026 Create the Future Design Contest - Tech Briefs",
@@ -120,17 +220,7 @@
       "source": "Tech Briefs",
       "category": "Technology & Inventions",
       "published": "2026-11-10T20:51:53+00:00",
-      "age_hours": 17.0
-    },
-    {
-      "title": "New patient-centered initiative aims to accelerate pediatric AML research and treatments - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkdBYTlGeFptV0dnVXpoNjBrLW1tNDF2WHFzU3Jid19udVVGWE5aNjNhZkJJWXIxSVlFX1dscERMNnJLN1lwMVM3aEhYUGNyVThEdXpGWlpKMGQ4cm5FWk1PdUk0OVhJQ3didzRhYkF0LWF4Wnh3b3EyVnluclF3dUFXZDFKVUpmd0dGMmxZR0VtaGxjR21pSF9meldUaS1tMTF0YXpIUXNfS0dzQnA4X2dXY0xVWEllR3U4c2c5R0tEckU5bWdvYndITnQ5X3FIM3c?oc=5",
-      "description": "New patient-centered initiative aims to accelerate pediatric AML research and treatments    News-Medical",
-      "image_url": "",
-      "source": "News-Medical",
-      "category": "Science & Medicine",
-      "published": "2026-11-10T19:41:00+00:00",
-      "age_hours": 18.1
+      "age_hours": 27.4
     },
     {
       "title": "What's next for WWF’s conservation priorities before Congress - World Wildlife Fund",
@@ -140,7 +230,7 @@
       "source": "World Wildlife Fund",
       "category": "Wildlife & Conservation",
       "published": "2026-11-10T19:04:10+00:00",
-      "age_hours": 18.8
+      "age_hours": 29.2
     },
     {
       "title": "The Ohio State University and Microsoft announce five-year strategic partnership to accelerate innovation across clinical care, education and research - Microsoft Source",
@@ -150,7 +240,7 @@
       "source": "Microsoft Source",
       "category": "Science & Medicine",
       "published": "2026-11-10T18:30:05+00:00",
-      "age_hours": 19.3
+      "age_hours": 29.8
     },
     {
       "title": "Ancient Northern Peruvians Practiced Ritual Sacrifices Yet Lived Mostly Peacefully, Archaeologists Find - Inkorr",
@@ -160,17 +250,17 @@
       "source": "Inkorr",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-10T18:28:43+00:00",
-      "age_hours": 19.4
+      "age_hours": 29.8
     },
     {
       "title": "Making BBS an independent and credible institution - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdF9SazdmUXI4eUVwV0JxRHFKeXk4ZXQzNmczaGJXYkJOQ3BGUnlyM0U0WHZfS2pWMkhiUzRLSkZRcXJ1ZTFTZWR3cEZBZGh4SDRVeGJoc3hJeDI5N2l6VjFiUVdpbE1XWWtScG9VcEZrLTRaLUNnVlNfMHBfNlA1UDJiTlUyeVJqYVA1QUJFalcwbFhWNmZ5ZG1pR3hVZFF1VGdKeUFoYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWURpS3hPQzVxNFFmRkhGN042MG5IWDFTWHpvU0VsZEYyTHdwUURHeFpTMlBpZFVsTzdBYkVISUttRldhenFqZDhQcUJsSVM2ejFnT3dBeEM2S0F3YkdCWi04Y29kQjVUejU5VUU2WlVaVXdzNmtiSU5vY0RiRTdaWjBjN0FfQnlBUU92TS1qUTVKUnZIcWlnME9XNA?oc=5",
       "description": "Making BBS an independent and credible institution    The Financial Express",
       "image_url": "",
       "source": "The Financial Express",
       "category": "Economics & Statistics",
       "published": "2026-11-10T18:15:54+00:00",
-      "age_hours": 19.6
+      "age_hours": 30.0
     },
     {
       "title": "Alzheimer's Discovery Reveals Brain Cleaning Gone Wrong - UVA Health",
@@ -180,7 +270,7 @@
       "source": "UVA Health",
       "category": "Science & Medicine",
       "published": "2026-11-10T17:16:29+00:00",
-      "age_hours": 20.6
+      "age_hours": 31.0
     },
     {
       "title": "Grand Egyptian Museum can open new avenues for archaeological cooperation with Kuwait, experts say - Kuwait Times",
@@ -190,17 +280,17 @@
       "source": "Kuwait Times",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-10T16:57:28+00:00",
-      "age_hours": 20.9
+      "age_hours": 31.3
     },
     {
-      "title": "Nicklaus Children’s Hospital and Florida International University Unite Global Leaders to Accelerate Innovation in Congenital Heart Disease - Florida Hospital News and Healthcare Report",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON3lVV043RWcyenE3TlJyX2RXek15VGNjMmJ5VXJVUGhnUjhRVjZWUXc1WGVxcGZNdGV0M2dtNTBGYmJUdUlEZ3NKU0lrLWM2ZWpVWVBaREFKYjFoVVBkeTUybjlCN2RmTjBSUFhDZmdFYm5FZ1NPVVd0Q1ZZSjBGTl90dkVsVHRlS2ViTUVZVkMwaE9xZ3NVX1lkQmEwU0t6LWVLUFIxd2xwLUo4REJscGs2c0l3bzk2VmcyZjF6SjQ4SU4xcnZUdGRvb1p0NENfcWxfdmZlcWVHY1U0SnVqWjdwNVdWMXBVRGctN25HNUFZbGRrWWxNMWd5OC00Y2lfMzNiZG8zUlNnUWJ2Z05ja2J3RkVtQQ?oc=5",
-      "description": "Nicklaus Children’s Hospital and Florida International University Unite Global Leaders to Accelerate Innovation in Congenital Heart Disease    Florida Hospital News and Healthcare Report",
+      "title": "Oldest Acheulean stone tools in Eastern Europe found at Khryashchi site in southern Russia - Archaeology News Online Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUVTVDV2RElBM1VyZlJwb2g5aE1nZjJ2TDVhNUlmMndSOVByby1UNU04RWxIX1gySkpHTW5KQUctNmg5X29DdjNSd0FQclZlRzEwZjB0ak96dzRISUNwRV9Da0dwdkRVRkMxazZJUUdkR3VxTlNKZEZRaEZXenhWckdIbmkwZ3ZpTFlDMmNLNmM?oc=5",
+      "description": "Oldest Acheulean stone tools in Eastern Europe found at Khryashchi site in southern Russia    Archaeology News Online Magazine",
       "image_url": "",
-      "source": "Florida Hospital News and Healthcare Report",
-      "category": "Science & Medicine",
-      "published": "2026-11-10T16:28:10+00:00",
-      "age_hours": 21.4
+      "source": "Archaeology News Online Magazine",
+      "category": "Archaeology & Anthropology",
+      "published": "2026-11-10T16:51:35+00:00",
+      "age_hours": 31.4
     },
     {
       "title": "Archaeology student found a lost Maya city on page 16 of a Google search - Upworthy",
@@ -210,7 +300,7 @@
       "source": "Upworthy",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-10T16:26:55+00:00",
-      "age_hours": 21.4
+      "age_hours": 31.8
     },
     {
       "title": "India Has Reduced Poverty. The Question Is: By How Much? - Center for Global Development",
@@ -220,7 +310,17 @@
       "source": "Center for Global Development",
       "category": "Economics & Statistics",
       "published": "2026-11-10T15:15:59+00:00",
-      "age_hours": 22.6
+      "age_hours": 33.0
+    },
+    {
+      "title": "Irish researchers head to US to showcase scientific breakthroughs - Irish America",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0VzZDVOaDZkVGd3Q0JTaUtWUU5uS29TX0MxU3hydFVQX21iN2RDVk1DRGpLR2x6QmNFNmZ2cl9uWV9QaWQ4Y0pCVGVlMGF4ZDd4VnlWTjhyeUtTa1VaOGVUS3R3UUEtbmNfT0dKUWUySUp5RWpaRGM0WlJwMUVnSlZKTUMwcTF2dVNqR0N2ZUVDWkNaR1JSbGRYUlY5YjRrem43M3B3?oc=5",
+      "description": "Irish researchers head to US to showcase scientific breakthroughs    Irish America",
+      "image_url": "",
+      "source": "Irish America",
+      "category": "Science & Medicine",
+      "published": "2026-11-10T13:19:15+00:00",
+      "age_hours": 34.9
     },
     {
       "title": "Phelps Hospital Gets $5M State Grant for Energy Efficiency - Yonkers Times",
@@ -230,7 +330,7 @@
       "source": "Yonkers Times",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-10T13:16:40+00:00",
-      "age_hours": 24.6
+      "age_hours": 35.0
     },
     {
       "title": "With a major investment, two of Utah’s most prominent families work together to accelerate mental health research - The Salt Lake Tribune",
@@ -240,7 +340,7 @@
       "source": "The Salt Lake Tribune",
       "category": "Science & Medicine",
       "published": "2026-11-10T13:02:22+00:00",
-      "age_hours": 24.8
+      "age_hours": 35.2
     },
     {
       "title": "The last arc of poverty: Why India’s next big battle runs from UP to Bengal - The Times of India",
@@ -250,7 +350,17 @@
       "source": "The Times of India",
       "category": "Economics & Statistics",
       "published": "2026-11-10T12:22:00+00:00",
-      "age_hours": 25.5
+      "age_hours": 35.9
+    },
+    {
+      "title": "Cancer uses antioxidants to disarm the immune system, scientists discover - Science Daily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByMkxCRVVwcUFCckZ1cW54UDNlWS1pd0ZGeEsxSXQ1Ri1jdUlLdm1kY3hodnpQZ2pTc3hNOFVUSXVsZ0pNYXRfTWFPaWpNWC14RmtfX3JfOE5ycVlHVVRteWs1dzU3OHRrX2xUc1BYWQ?oc=5",
+      "description": "Cancer uses antioxidants to disarm the immune system, scientists discover    Science Daily",
+      "image_url": "",
+      "source": "Science Daily",
+      "category": "Science & Medicine",
+      "published": "2026-11-10T11:58:08+00:00",
+      "age_hours": 36.3
     },
     {
       "title": "Science for humanity: World Science Day for peace and development - Modern Ghana",
@@ -260,7 +370,7 @@
       "source": "Modern Ghana",
       "category": "Science & Medicine",
       "published": "2026-11-10T11:39:00+00:00",
-      "age_hours": 26.2
+      "age_hours": 36.6
     },
     {
       "title": "Opinion | A new Congress should mean a new agenda for health care - The Boston Globe",
@@ -270,7 +380,7 @@
       "source": "The Boston Globe",
       "category": "Science & Medicine",
       "published": "2026-11-10T11:38:00+00:00",
-      "age_hours": 26.2
+      "age_hours": 36.6
     },
     {
       "title": "Koh Kong Communities Link Mangrove Restoration With Livelihoods and Basic Services - Cambodianess",
@@ -280,7 +390,7 @@
       "source": "Cambodianess",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-10T11:30:46+00:00",
-      "age_hours": 26.3
+      "age_hours": 36.8
     },
     {
       "title": "An Australian billionaire couple donates $120 million to 10 conservation groups to protect wildlife; one - The Times of India",
@@ -290,17 +400,7 @@
       "source": "The Times of India",
       "category": "Wildlife & Conservation",
       "published": "2026-11-10T11:27:00+00:00",
-      "age_hours": 26.4
-    },
-    {
-      "title": "A Leap Forward in Indigenous Breeding: ICAR–IVRI’s Breakthrough in Producing Sahiwal Calves through Advanced Reproductive Technologies - Indian Council Of Agricultural Research",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1Y2RzFHTTkyWnhsN2VZNWFobU84WVRxSlh4am83OG1lSXFiNjdwMnJ2WGpiWEFWNnk5MjJEeTZib3NZR0NFa1VZNkVJNWZYZ01oczFLazByWWdmQllYaXc2aUJscjNkaHRtbVgyUkdhbmYwNDFYVERxaVBzUXpkQnc2WmtJVEpIVlE2cmZaSUVYWmZNYklHY0c4NGs4M1pyTWZVYkVOcTVGNV9hMDVSbXZ6Q1htNHk1V3RCY1h3?oc=5",
-      "description": "A Leap Forward in Indigenous Breeding: ICAR–IVRI’s Breakthrough in Producing Sahiwal Calves through Advanced Reproductive Technologies    Indian Council Of Agricultural Research",
-      "image_url": "",
-      "source": "Indian Council Of Agricultural Research",
-      "category": "Technology & Inventions",
-      "published": "2026-11-10T09:58:40+00:00",
-      "age_hours": 27.9
+      "age_hours": 36.8
     },
     {
       "title": "Zayed Centre for Research into Rare Disease in Children celebrates seven years of advancing paediatric research, innovation - www.wam.ae",
@@ -310,27 +410,27 @@
       "source": "www.wam.ae",
       "category": "Science & Medicine",
       "published": "2026-11-10T09:22:19+00:00",
-      "age_hours": 28.5
+      "age_hours": 38.9
     },
     {
-      "title": "Bangchak Executive Honored as a 2026 Outstanding Woman Professional in Environmental Conservation Awarded by the Federation of Business and Professional Women’s Associations of Thailand under the Roya... - Bangchak Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPZktoekVIeGIycEtocmhQRDg1SlVVZGxUSjBGOUVjdFM5aWJrX29sY3lVR25yT2dWVFEtVjlyWnZUN0JnM1N2U0xtelRiWDdvdVVGVGpiWVVfYVVHYjBnUVRUY2RYemN6VzhxWTg4Ymo5bVMwRUlMQkxSX0ZYbkpfcm1kcDV6amczaUlMRnF6eW1pTzVxZ0xNcEJIRjdsanM2ZlJVa0IzRFhocVNjWkd3SEdSaUJHRnlRbU1fRE15MVZKd1ppSW5HTnhOLWRVRHBIelR0eFNhYTFKeDJ1azRQRUdNYVh3dUVZNElJVlpSbnpGTncxMDZLVmZzQnVUMFhSNEVBb19LWnhYbEVUaVlDQnp0MVFNOWlLOF9XQ3dGaFo2a1c5SGlyY3JSMzZTcXVIX28zYmJiaDhfT3VuUVlKQXhGVWU5cFdoNndLZElTTzhHVk03TWNCMHVjNmt0S1FnYmQ0d0s5V2Jmd0NidENsd0pBTjNpQlVUbG5BOW5CMzNNMExCczBLVDMwZDlJOWZtdXlpS29GUVFaMUFvZVhDTjQzaG4?oc=5",
-      "description": "Bangchak Executive Honored as a 2026 Outstanding Woman Professional in Environmental Conservation Awarded by the Federation of Business and Professional Women’s Associations of Thailand under the Roya...    Bangchak Corporation",
+      "title": "Breakthrough RNA blood test identifies hidden ovarian cancer warning signs - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVIycnp3NGJPM1B2a21BVFFOWkFnRWpOR0JRb0IxYXI0Q3FEblk0WEZBUVNMTFFnUGtQUmFKdDR2c3ZqeVJPNlFHN0NYamxZVVh4OHhPbG5qblF1LXBET1FjcVVEU3MyQ0NKUkx0SG5fcnlBMDhEZEo2UlU3ejZ0Rm5xV2NxQW5Sb3VWejBRSFVPVWVZM0NzcnVxVVQ0TlhsWmF6NEV3WVRtdzNjY0NXeUl0ajlva0E1UWdueWlJYw?oc=5",
+      "description": "Breakthrough RNA blood test identifies hidden ovarian cancer warning signs    News-Medical",
       "image_url": "",
-      "source": "Bangchak Corporation",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-10T06:59:44+00:00",
-      "age_hours": 30.8
+      "source": "News-Medical",
+      "category": "Science & Medicine",
+      "published": "2026-11-10T08:00:00+00:00",
+      "age_hours": 40.3
     },
     {
-      "title": "Cavidi’s BOLD Named “Proteomics Innovation of the Year” as US Patent Nears Grant - www.lifesciencefocus.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGxrVm5NR2JHdWxrR1JvaG5CbmdHS3Nyc1RxYXhCengtMkN3UjVHYXBTUmNScjRVQURreUxqUnBaaWpyVzhXemI0ZngtTGttZTNocVBZMUdEblJhZEhtYkpZOExNLVpHWS1fUnhFZUdqREtiWjJBMks4c2lSRE9maEtvaWw0VHE3emRyUDlVVU9WaktZUFphYVVXbERkLUVYS0w0ZExMWXNaWC15cTFrZi1GWUJ3MlpodmJLWHZsY0tSLVhNR0JIeGJ0Y05FXy1WUkE?oc=5",
-      "description": "Cavidi’s BOLD Named “Proteomics Innovation of the Year” as US Patent Nears Grant    www.lifesciencefocus.com",
+      "title": "Cavidi’s BOLD Named “Proteomics Innovation of the Year” as US Patent Nears Grant - lifesciencesweden.se",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTDRpYjJkUFBMZjhFMkg0c2dHcHNaY0tVUjFhTHVwRG5kUTl4clpFaFNITnZKaWxoUUN5QjA0Q2w4U2VlRFNveHpYcEo5S0otYndmNWFhMXc5SzRFamtoRHQtbEZjSGhuaXIzRHNRTUc4UUNKRG5PTW5QMnZzTHIyOUlzZjN0WFFrQWVwSTBKRkszVmtCZXJiMk9uUFc4QjJsVHduN1Q2TVM1cUthaWZERE5iNzFRb1FwS2l2TkVadGxjSThVdGNhVXZTdS0xeHRVcWc?oc=5",
+      "description": "Cavidi’s BOLD Named “Proteomics Innovation of the Year” as US Patent Nears Grant    lifesciencesweden.se",
       "image_url": "",
-      "source": "www.lifesciencefocus.com",
+      "source": "lifesciencesweden.se",
       "category": "Technology & Inventions",
-      "published": "2026-11-10T06:00:55+00:00",
-      "age_hours": 31.8
+      "published": "2026-11-10T06:00:54+00:00",
+      "age_hours": 42.2
     },
     {
       "title": "Renewing the momentum for rights-based poverty reduction in Asia and the Pacific - ESCAP",
@@ -340,17 +440,7 @@
       "source": "ESCAP",
       "category": "Economics & Statistics",
       "published": "2026-11-10T02:10:54+00:00",
-      "age_hours": 35.6
-    },
-    {
-      "title": "Alzheimer’s may have early warning signs outside the brain - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1aXZ4RlhONlFLSWswMVA3TloxUFRpYUtVWUhMSndTN3YyMEpGUTBJV2l0M0pmYjFrZ2pTSTVLdHJJRDVnWDdyR3ZXdE9MTE5LZW9ZbC1sOC1wTkFCY2tSdXFTUFo4X1JvLWJzU0dUZw?oc=5",
-      "description": "Alzheimer’s may have early warning signs outside the brain    Science Daily",
-      "image_url": "",
-      "source": "Science Daily",
-      "category": "Science & Medicine",
-      "published": "2026-11-10T01:48:15+00:00",
-      "age_hours": 36.0
+      "age_hours": 46.1
     },
     {
       "title": "How World Bank has counted India’s poor - The Financial Express",
@@ -360,7 +450,7 @@
       "source": "The Financial Express",
       "category": "Economics & Statistics",
       "published": "2026-11-10T00:24:17+00:00",
-      "age_hours": 37.4
+      "age_hours": 47.9
     },
     {
       "title": "Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago - Live Science",
@@ -370,7 +460,7 @@
       "source": "Live Science",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-09T23:40:50+00:00",
-      "age_hours": 38.2
+      "age_hours": 48.6
     },
     {
       "title": "Newly Discovered Maya City Reveals Its Ancient Name, Ruler, and Rival - Arkeonews",
@@ -380,7 +470,7 @@
       "source": "Arkeonews",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-09T23:21:15+00:00",
-      "age_hours": 38.5
+      "age_hours": 48.9
     },
     {
       "title": "Rhode Island biomedical research hub celebrates a decade of impact and an investment in the future - Brown University",
@@ -390,27 +480,7 @@
       "source": "Brown University",
       "category": "Science & Medicine",
       "published": "2026-11-09T20:54:37+00:00",
-      "age_hours": 40.9
-    },
-    {
-      "title": "Work to Save the Afghan Capital’s Crumbling Ancient Fortress Uncovers Archaeological Treasures - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTU4dWpreHZhRDROaXpYamw3enFndW45dFBLdkdEQWVaa2ZkdWVlQ0xyNDcwUzZTYjZxd1N6S0FmUFEtOXFacUxRQkVKNW9ieTNzcS16YmZFX2lIelVfbmdiVVVtUldxR1VtTnJ4OUtqRjFNUzIxOFJKWUZkLUFlZzEyeTBmcDlBcXprem1JeWE3czEyVGJiSDRGOXlYQU9BMXdGemRYaTlqUnpFTUx2T2xFYWNHRHE3aXMtVHk1bDNrUGVOUFJz?oc=5",
-      "description": "Work to Save the Afghan Capital’s Crumbling Ancient Fortress Uncovers Archaeological Treasures    ASHARQ AL-AWSAT English",
-      "image_url": "",
-      "source": "ASHARQ AL-AWSAT English",
-      "category": "Archaeology & Anthropology",
-      "published": "2026-11-09T18:49:24+00:00",
-      "age_hours": 43.0
-    },
-    {
-      "title": "Could these bacteria-killing viruses help fight antibiotic resistance? A new discovery takes us closer - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmdjSEM4VFZXWmZKMWV5TnEzYjExb0NsaS11eHI5OGl1ZHlnNGRqRzZiVTZuMVdWRWN4ZG9OSjg5bmVZMWxzbHJrMFdUSHhXOVpXLTdicWY0Z1hmaFNaYUFGaUhGQVo2SkhrSHRDME1nM09QeEpHeFlfVTBhOXVxOVozTDg1dW9iSnk1QTgzNE04Z3Nhd1UzNFBKdWFwNVZybXNMUGhyQXlkZnB3U3Y3ZG1GWHJnNDlURkw1SHdYSGdyaTJFMnVGUVpCallRbXBuUFE?oc=5",
-      "description": "Could these bacteria-killing viruses help fight antibiotic resistance? A new discovery takes us closer    The Conversation",
-      "image_url": "",
-      "source": "The Conversation",
-      "category": "Science & Medicine",
-      "published": "2026-11-09T18:37:17+00:00",
-      "age_hours": 43.2
+      "age_hours": 51.4
     },
     {
       "title": "4,300-Year-Old Grave Reveals Woman Buried Holding a Newborn Baby in Czechia - Arkeonews",
@@ -420,27 +490,7 @@
       "source": "Arkeonews",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-09T16:26:33+00:00",
-      "age_hours": 45.4
-    },
-    {
-      "title": "Abdulrahman Al-Ansary: How a Saudi Archaeologist Built a Scholarly Tradition to Uncover His Country's Past - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUVmRWU0SjBrWHNlS21aMlM2SmstdGJmNmlDdGl4aHMtREZTT0NoeVVka0tYS0RYM0pybFlidlVZd2wtZW11ZTFfS3pHTGF6dHdPVFNpeDBDWDV1bjRoaGN2OGRfSDFpVFZ2bXNaVFFtSFZnOUNLNGdXa2dEXzBJVWtFX0hFZmZKUnBZQjF4bFpNODdFbEN1eVRfam92Y2JscFNlZkYydldXaVU3QjFLTGtiRmt5WkhFWU5kSG9iUjFReWVk?oc=5",
-      "description": "Abdulrahman Al-Ansary: How a Saudi Archaeologist Built a Scholarly Tradition to Uncover His Country's Past    ASHARQ AL-AWSAT English",
-      "image_url": "",
-      "source": "ASHARQ AL-AWSAT English",
-      "category": "Archaeology & Anthropology",
-      "published": "2026-11-09T16:25:56+00:00",
-      "age_hours": 45.4
-    },
-    {
-      "title": "New Haven Oncology summit highlights AI advances, investment opportunities - Hartford Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkw1bmhuM2Yxd1RVT1ItNXdGMVVCNS1HdXl1aVBvRmdqQW5rd3pNMmc5Zl9vZnl5Wk5zcDZ1b3lkYnlmb2dSbnk0RFJIam9GSDY4QnpvTlc2TEhyLXlVdTl4UFk5ZXBESWFQVzl5cmtxMXFnWkdIV0JJTnlic05QQUYzWHJkekNQOV91S1l0c1E2MmRqQzE5QjZxRWI0eGt5UkJvdU9rbG1meUxRWFhJLQ?oc=5",
-      "description": "New Haven Oncology summit highlights AI advances, investment opportunities    Hartford Business Journal",
-      "image_url": "",
-      "source": "Hartford Business Journal",
-      "category": "Science & Medicine",
-      "published": "2026-11-09T16:23:44+00:00",
-      "age_hours": 45.4
+      "age_hours": 55.8
     },
     {
       "title": "Mount Sinai Reaches Top 10 as a National Institutes of Health-Funded Academic Medical Center - Mount Sinai",
@@ -450,7 +500,7 @@
       "source": "Mount Sinai",
       "category": "Science & Medicine",
       "published": "2026-11-09T16:17:03+00:00",
-      "age_hours": 45.5
+      "age_hours": 56.0
     },
     {
       "title": "Joseph Hill, M.D., Ph.D., receives two American Heart Association awards : Newsroom - UT Southwestern",
@@ -460,17 +510,7 @@
       "source": "UT Southwestern",
       "category": "Science & Medicine",
       "published": "2026-11-09T15:55:21+00:00",
-      "age_hours": 45.9
-    },
-    {
-      "title": "Sponsored Content: Congress Must Protect the System Behind Medical Breakthroughs - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcy0zQ0JocGk3R281Um4yRHJERWFqbEZvRmlFcWFGU21IUjNqSTRMUi1zV3JTc3JZSVFlcDlNOHAyMzNGUmNlTjNLZkRBaGtOYW0xM0Q3LXc3OENwY2d0NHZYbWd3U25RVVEyRFh4emcwc0FUZTJ4bmE1LUtwd1VyemRMUjBqQ3NCSFUycjhBaUpteUVIQUZCd3JOby1ORWxjVlVOR1RlemZSNE92VXc0TnJnOA?oc=5",
-      "description": "Sponsored Content: Congress Must Protect the System Behind Medical Breakthroughs    Politico",
-      "image_url": "",
-      "source": "Politico",
-      "category": "Science & Medicine",
-      "published": "2026-11-09T15:40:00+00:00",
-      "age_hours": 46.2
+      "age_hours": 56.3
     },
     {
       "title": "Why Refugee Youth Deserve a Seat at the COP31 Table - Inside Ecology",
@@ -480,7 +520,7 @@
       "source": "Inside Ecology",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-09T15:27:08+00:00",
-      "age_hours": 46.4
+      "age_hours": 56.8
     },
     {
       "title": "Buthelezi calls for skilled public service to drive Africa’s economic growth - Inside Politic",
@@ -490,7 +530,7 @@
       "source": "Inside Politic",
       "category": "Economics & Statistics",
       "published": "2026-11-09T13:26:20+00:00",
-      "age_hours": 48.4
+      "age_hours": 58.8
     },
     {
       "title": "Rob Dunn: The 100 Most Influential Climate Leaders of 2026 - Time Magazine",
@@ -500,7 +540,7 @@
       "source": "Time Magazine",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-09T13:00:52+00:00",
-      "age_hours": 48.8
+      "age_hours": 59.3
     },
     {
       "title": "Data: Negros Island Region poverty among families down by 8% DUMAGUETE CITY – Poverty incidence among families in the Negros Island Region (NIR) dropped to 14.3 percent in 2025 from 22.6 percent in 2023, according to the latest data released by th - Facebook",
@@ -510,7 +550,7 @@
       "source": "Facebook",
       "category": "Economics & Statistics",
       "published": "2026-11-09T12:20:07+00:00",
-      "age_hours": 49.5
+      "age_hours": 59.9
     },
     {
       "title": "Kazakhstan Poverty Reduction Stalls Despite Economic Growth - The Times Of Central Asia",
@@ -520,7 +560,7 @@
       "source": "The Times Of Central Asia",
       "category": "Economics & Statistics",
       "published": "2026-11-09T12:16:56+00:00",
-      "age_hours": 49.5
+      "age_hours": 60.0
     },
     {
       "title": "Rescue, Release, Recovery: Conservation Takes a Village - FWS.gov",
@@ -530,27 +570,17 @@
       "source": "FWS.gov",
       "category": "Wildlife & Conservation",
       "published": "2026-11-09T12:00:00+00:00",
-      "age_hours": 49.8
+      "age_hours": 60.3
     },
     {
-      "title": "Common supplement could help fight psoriasis, scientists discover - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JdHdMZ2FxTjYydTFmQ2hQZXR2YXJIWU5zOGpRelV2U241TkVxdmxscHFfTTZoUG1EWERLbGtPay1ZMUZnX01ESUpPWS1tMTREY0R2QW1HVzBGUGphNU9EbmVrLUNPSllvODd5cl93TQ?oc=5",
-      "description": "Common supplement could help fight psoriasis, scientists discover    Science Daily",
+      "title": "A Legacy of Conservation - FWS.gov",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LNnc2V1ExaEhhVmtieUl1UFIzWmtySU9LdkZOZmZoYzVPaUgyYUlwelcxd1VSZ0xRVW5SUnZmc1ZHVkRzUDVkQVZRWk5zWFBTOTVVRWI1NGNNcHVoNEUwb2wxUQ?oc=5",
+      "description": "A Legacy of Conservation    FWS.gov",
       "image_url": "",
-      "source": "Science Daily",
-      "category": "Science & Medicine",
-      "published": "2026-11-09T11:46:01+00:00",
-      "age_hours": 50.1
-    },
-    {
-      "title": "When your gut bacteria run out of fiber, they may start eating your gut lining - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YWkZCN2laMGM2Sk8yZjFjNDZNeG5DSUlwZDJvTUNFN2FwYnkwM0NWM3hpRlNKNjlnM3VBQjRBaE5BWTVWLV9qQ0JNa2JXS0wtTlBnYUpqSVRjYmx4S1V3MENXbVlKelFFV2tXWk9xNA?oc=5",
-      "description": "When your gut bacteria run out of fiber, they may start eating your gut lining    Science Daily",
-      "image_url": "",
-      "source": "Science Daily",
-      "category": "Science & Medicine",
-      "published": "2026-11-09T11:33:31+00:00",
-      "age_hours": 50.3
+      "source": "FWS.gov",
+      "category": "Wildlife & Conservation",
+      "published": "2026-11-09T12:00:00+00:00",
+      "age_hours": 60.3
     },
     {
       "title": "Delta Participates in COP31 and CBD COP17, Supporting Electrification and Biodiversity Conservation - TradingView",
@@ -560,7 +590,7 @@
       "source": "TradingView",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-09T09:37:00+00:00",
-      "age_hours": 52.2
+      "age_hours": 62.6
     },
     {
       "title": "Endangered species - IUCN, Conservation, Extinction - Britannica",
@@ -570,37 +600,7 @@
       "source": "Britannica",
       "category": "Wildlife & Conservation",
       "published": "2026-11-09T08:00:00+00:00",
-      "age_hours": 53.8
-    },
-    {
-      "title": "After Decades, Hilsa Returns to the Upper Ganga: A Remarkable Story of River Restoration and Ecological Resilience - Indian Council Of Agricultural Research",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRm85ZlpFWDFXbW5VZGloMmNUQU9pbVNpY3ZxdWJQNHRjX3VwSDVjLXN6OTZ3UWZRb0FlTUEwcEZBZEdJQ1ZzUnkteXd1aGRMdS1YTFpneld0QTlfODNHV1lIeTNkRUY3b1pZaGdpUUlLWlJGTURTbkF6aC1qVXF1QlQwOTl0T1NydE1MOURHT3NKQ29NWl9xYTQ2WnRuczVrcmJVTl9qMEpUOEZpNmRFRUx3?oc=5",
-      "description": "After Decades, Hilsa Returns to the Upper Ganga: A Remarkable Story of River Restoration and Ecological Resilience    Indian Council Of Agricultural Research",
-      "image_url": "",
-      "source": "Indian Council Of Agricultural Research",
-      "category": "Wildlife & Conservation",
-      "published": "2026-11-09T04:58:57+00:00",
-      "age_hours": 56.8
-    },
-    {
-      "title": "20 Israeli breakthroughs that are building the world of tomorrow - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vOXRoVDR0LVFsVDNPUWk1bktLUFlPNDBTek9xem1PR2s2NVpvdDVoNmZDT1Vyb055ajU1XzBOaVkwSHhyRXJNNlB6d09nY1Qzd3hiZWFVVnd2Sk93a0J1MFpOajNNSEQ4RFNmZA?oc=5",
-      "description": "20 Israeli breakthroughs that are building the world of tomorrow    Ynetnews",
-      "image_url": "",
-      "source": "Ynetnews",
-      "category": "Technology & Inventions",
-      "published": "2026-11-09T04:58:00+00:00",
-      "age_hours": 56.9
-    },
-    {
-      "title": "World Bank Report on Poverty: Unwavering growth story of Bharat - Organiser",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDJYQkVBc3EwVTZnUVRGUFRRZFg1XzdQLUJMVFk2cDVkbFo0STdQekR2aVlsWnh6a3ctSmhaMUFBalZFNHJiZjJvbEV5a085Yy1ldzNkYzdKLUpacTN6WDNnd2RGTE5pb0YyS2ctNUpkU0UzSEpYTXJzTWpnSXQ0RlVzRlg2elVLNUc2QVQ1d1dXVW0tYTRtbHNhM19oZHNrZDk2UmNqbV9heGVENnVF0gG0AUFVX3lxTE1YQlhpN2hjNGZ6WFZBZzRkamxSb1dUWUMyeDhMcTNBOFJaN2RSc1J5dDBPeWpsLVhSUVBaQTI1eEFrSUt6QlRLZ3JfaFhhU1B5YkY5UmlObk5XamR2WkRCaVRLRGhYUV9IY2U5dXFBXzY4MTJfOU9YYkh2dVpCb3NSTG1HWUFERHozdG90UzV2ZElaeWxFVG5IWHY2TENMUDNjMWFCcmdFVWgyYndQaTI2Vm5ZMA?oc=5",
-      "description": "World Bank Report on Poverty: Unwavering growth story of Bharat    Organiser",
-      "image_url": "",
-      "source": "Organiser",
-      "category": "Economics & Statistics",
-      "published": "2026-11-09T03:33:12+00:00",
-      "age_hours": 58.3
+      "age_hours": 64.3
     }
   ]
 }
