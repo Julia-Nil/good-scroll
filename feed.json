@@ -1,16 +1,46 @@
 {
-  "updated": "2026-11-18T15:22:35.742603+00:00",
+  "updated": "2026-11-19T00:02:35.433372+00:00",
   "count": 60,
   "articles": [
     {
-      "title": "Neurosteroid Offers Clues to Brain Changes Linked to Depression | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2hOcWVRMjQwZVBYcm1zMjVCQnRvTWNmRTlUTmlhbG1JYl82aTdNQ0ZGSkdIX3R4UkNJN3FMM2I0Uk9IOVUtbkg5S0VkaU43TzlHRGF6aWZWRmVYZmRqMDUyUGZYejVOSk0wSXlFS3N6M2cxa05sQkpnUVBaWnQ2bUpGZ0JTaWlxWnQyZktPc2s4dkttRU5UWWFyT2lBUdIBngFBVV95cUxPY2hOcWVRMjQwZVBYcm1zMjVCQnRvTWNmRTlUTmlhbG1JYl82aTdNQ0ZGSkdIX3R4UkNJN3FMM2I0Uk9IOVUtbkg5S0VkaU43TzlHRGF6aWZWRmVYZmRqMDUyUGZYejVOSk0wSXlFS3N6M2cxa05sQkpnUVBaWnQ2bUpGZ0JTaWlxWnQyZktPc2s4dkttRU5UWWFyT2lBUQ?oc=5",
-      "description": "Neurosteroid Offers Clues to Brain Changes Linked to Depression | Newswise    Newswise",
+      "title": "Early Bronze Age Settlement with Massive Defensive Ditches Discovered - Arkeonews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNem5OeFdzOEtUcS14c1ZUWVBueFFya05OUHRvZmJCR3RFZW11M2tuZy1wLTIyZUMwSlR4b3NzRkNXWVFXekdJbXRVTDFFVWpzclFjNnpubjg4TGlzbWxQejJSQjBOQ1lob0lwRXA0aXdpdmpmcmJveGpHR2U5SC1wazljTFBWOWl4WmExLVVQY25OcGxxZ2pn?oc=5",
+      "description": "Early Bronze Age Settlement with Massive Defensive Ditches Discovered    Arkeonews",
       "image_url": "",
-      "source": "Newswise",
+      "source": "Arkeonews",
+      "category": "Archaeology & Anthropology",
+      "published": "2026-11-18T22:43:47+00:00",
+      "age_hours": 1.3
+    },
+    {
+      "title": "What China’s Gene-Editing Deaths Reveal About Its Biotech Industry - Noema Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjNITlJMV2ZwY1puVHRGR2g5X2s5QjVyZm85U1lDczFNUzR5Nzl5OVBsbWNCMmE5cUZ5VVA3eGxoMTQ3dW9VbU43OTVTQ0xJd3FRSzUtb0MyQ2lfU0hWOV9VVlhQOGtTZ1JvUjc4X0ZvemF6alVkVGxKNlN2VXA4d0VkNFVzUjNQVzZHYzhrQWZuUURj?oc=5",
+      "description": "What China’s Gene-Editing Deaths Reveal About Its Biotech Industry    Noema Magazine",
+      "image_url": "",
+      "source": "Noema Magazine",
       "category": "Science & Medicine",
-      "published": "2026-11-18T14:25:00+00:00",
-      "age_hours": 1.0
+      "published": "2026-11-18T22:37:02+00:00",
+      "age_hours": 1.4
+    },
+    {
+      "title": "Timeline: The biggest breakthroughs of the past 70 years - New Scientist",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelprcHlxUnZ5SDZqVndjVG1NNWJod2hOaEhzbkVKRmZZRGRLejE1Tm1hU0RPckRiV1ZRRzk4QV9NVXhWNjBhbGZCRXZBQ0ZTRm43Z0F2UXFrMXQ1VUVfR3RPSTZJVldqalV2TUMzUmJ5TWpsOE95dkxaYVphSm8wTC12NGZlbVh0azhxNG9Vb29fY215VXM2WFB2NUcyVEpDR3I4?oc=5",
+      "description": "Timeline: The biggest breakthroughs of the past 70 years    New Scientist",
+      "image_url": "",
+      "source": "New Scientist",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T22:05:57+00:00",
+      "age_hours": 1.9
+    },
+    {
+      "title": "A different kind of mound: Why a World Series champion is starting over in archaeology - University of Colorado Boulder",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWUxMEtLbFJoTHo5NUpqYjFZc2dULWktb09HUXZhVkFwd0ZsZ3VmMU5UZVI0T0M3NTVLRTJ4dGRPWVlQUHZLUW95RmhCR2lZbmRwcEpKdHVzTXlOUlJRT05yMUhydFAzWkVIa3NzWDAyYWFzOGpTWE1nU2lZVDhRQUMwSUdZb0drelhzcWdzTVZpTTRjdXFpTFBRSG9sZ0FmUTNCclZZekFVSVlvR0l1ajJEN1pCWlY0aGFR?oc=5",
+      "description": "A different kind of mound: Why a World Series champion is starting over in archaeology    University of Colorado Boulder",
+      "image_url": "",
+      "source": "University of Colorado Boulder",
+      "category": "Archaeology & Anthropology",
+      "published": "2026-11-18T20:27:53+00:00",
+      "age_hours": 3.6
     },
     {
       "title": "From a patient’s discovery to a potential new treatment for ulcerative colitis - Drug Discovery News",
@@ -19,8 +49,98 @@
       "image_url": "",
       "source": "Drug Discovery News",
       "category": "Science & Medicine",
-      "published": "2026-11-18T14:14:43+00:00",
-      "age_hours": 1.1
+      "published": "2026-11-18T18:37:06+00:00",
+      "age_hours": 5.4
+    },
+    {
+      "title": "Togo Launches Green Fund, Carbon Registry to Attract Climate Investment - Togo First",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTU5RVItUG9BZWt2eXhXZ05OUWoyRDRvWDdGbWNfMjJQSUY2RmFkaXdiaFZaeHRtLXp2bHlsSWVkNFU4YjVCNkVldTNxSjFTN0dJYWFUWF96OUlRMDhXWUFEOFVMV3lLclItdnZMbGUzejZRRU1LeVVUU1BaQ0JybDJnaENzTXQ4d2RxbkZlYUdFUkZLMEtvbEpUcGotOVRtM2RPRDVBZDl4eWdxanJBTG85Q0NqaUZMSVEydDlTRjh6V0J1Q3J4aXRR?oc=5",
+      "description": "Togo Launches Green Fund, Carbon Registry to Attract Climate Investment    Togo First",
+      "image_url": "",
+      "source": "Togo First",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-18T17:49:59+00:00",
+      "age_hours": 6.2
+    },
+    {
+      "title": "San Pablo de Valdés Reserve incorporates solar energy to strengthen the conservation of a highly valuable ecological area - Noticias Ambientales",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZnN3SXBlZWlaNVRCRWdnWnR2bU1lTE1ncWF6SnA5SkZORmhVclUtRFEyXzhOdUlzUlB0bmc0NU5qc3lYMHZmdWVzUVF5REVmaW82dnBveHVMc1B5R0piQXFRYjBBdW9xaWNiTmJIZnZwVmhJZnc3MnZoWnZfMEdORG41bW1JdkVfbjdRbUNTbHdBRE1aNS1PSjQ5X0NUUUNXQm5TdHVRdkM4bkhKV3o1b3ZyZFNuaENwQUtpUXZVVjgtbDRLdEc3ZzlsVlpKTnhyVWM5SEc1SUs2Q3ZtM0E0TXo0cmZ1V2pDdEFIU210LV9VRUHSAfgBQVVfeXFMTjBUbkpFenRrQlNjRkpUT1ZOOXJ5a1RjWFdKMThWZGVqLUNUNlRycHpWSm5NTkdhcEtPWWRwbjF5TmJpSlhuWU5zUHJMVDJyWnN5V1dkRTRuOVdqU1RiNF9YM3FMdVlEWEoxajRLMWh5YlNaN0puUDNWWUUxbURBWFl0b3huLW00ZGRQN0t1bnpzVmNsOFlPOE1vY2FpWTR2ZFdnMnhiV1NCdGlmTmR4UjUyUXVpeEgtOTZvODNjRVk4TEM3aE0xYk11ZzZjbkdhcnZiY1lPbHpVVFhiWnNrNDJNWTBIQlJzcTRoRTF5MHhwSDAwSFhnRFQ?oc=5",
+      "description": "San Pablo de Valdés Reserve incorporates solar energy to strengthen the conservation of a highly valuable ecological area    Noticias Ambientales",
+      "image_url": "",
+      "source": "Noticias Ambientales",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-18T17:35:22+00:00",
+      "age_hours": 6.5
+    },
+    {
+      "title": "New Treatment Strategy for Down Syndrome Shows Promise in Phase 2 Clinical Trial - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORktTXzBBOEtMcHdhSVgxQ2JnS1FXWFJTR2tmaEZxTlhIcHpzWTN0WFNONW15Z3RKZFlSb2NaTF9UQ1dwUWVoczVPRjFTVmxOenJlUlYxa3ZpQWY3Q1A1WkFjWnhpMk9OZHVWRGF5eXlCekk1SGpEbllCTUNvN21FS1hPYU9QVmkwbGpTSnA4X2tad1l4R0JMbVNSQjhvckkyWVlJOElub1pWNklBNGZqX1J3X2tZbk1UbFFiWUR4czBScmJYTWZQUFlwWU1oMFZHZXc?oc=5",
+      "description": "New Treatment Strategy for Down Syndrome Shows Promise in Phase 2 Clinical Trial    PR Newswire",
+      "image_url": "",
+      "source": "PR Newswire",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T17:25:00+00:00",
+      "age_hours": 6.6
+    },
+    {
+      "title": "California Research Measure Is a Windfall for a Billionaire’s Pet Project - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXozcUtfU1ljbEdOSk0wQXpTT0laREpvSzYtWmxjNTZsQnlzOERodWlfNXVwWENEdE9IcDBMMG5MZTd4a2ZDWEdySkJYV1BUOHVBQ3poc3ZLVEZ1TDVlU3FzVnJHcjJmTFVKTG9XMFY3b0dxZS0tMGFGX1QxNFdlbnk0TE9hdjMw?oc=5",
+      "description": "California Research Measure Is a Windfall for a Billionaire’s Pet Project    The New York Times",
+      "image_url": "",
+      "source": "The New York Times",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T16:59:40+00:00",
+      "age_hours": 7.0
+    },
+    {
+      "title": "Wiley launches AI Impact Award to recognize researchers using AI to deliver real-world health breakthroughs - WebWire",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMXB6cWxfc2VGZG9QNWVBYWpmWUNnem5hTTNqRVdKdjZGdXNqOVdmVnFyUlkyQ1FqUDdyWWhRbnBDNDdCZEFTRkx2eGZ0R001MEVoWGFNdFYwWHZ5aU5RTA?oc=5",
+      "description": "Wiley launches AI Impact Award to recognize researchers using AI to deliver real-world health breakthroughs    WebWire",
+      "image_url": "",
+      "source": "WebWire",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T16:14:19+00:00",
+      "age_hours": 7.8
+    },
+    {
+      "title": "Maker Movement to help drive innovation, youth engagement in Qatar | Gulf Times - Gulf Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhNdmJvZHI5VnhOYnc5NlQtQ2Q2SHo3N2NIYTFLWE9aYXJSNlVJMUtlUUVlSWVzS3diTWRIb2xReDRTblcxMmY5dEdwN05ubVdGVHhmN2kwV2t4MFFPcS0wa042YWJySmRzX0cwX0R6VmdMZzdrYVEtTVRuRC13SjhScFVLVlFHSEVuZjVlZXNqTHlTODNhSXVVZTZzUVlDZFhsUjgyN0hyS2RZdHJwU05ZOWh4ME3SAbwBQVVfeXFMTUs4dHB3bXpUb2RhUEpoWEJkM1ZHRzZWdXE3NkEyT3V0Uk5kVG5jdkZBMFhDRkFfSE82MFBMWWpNNk11YTZCQU5ONmdiTW1zbG9tMDFieXNpR0g2VERmb1RvVmNPeDB5QXVDOXBMaGFlTmFjODhQZkJnMkhiQWZEc0tNclI5NUNleWotaU5CeUFqVFRnVjdMU04zendHbUxfRTljaE5OZGVYYU13VVVLSnFNMmhYclFOVlJyUnk?oc=5",
+      "description": "Maker Movement to help drive innovation, youth engagement in Qatar | Gulf Times    Gulf Times",
+      "image_url": "",
+      "source": "Gulf Times",
+      "category": "Technology & Inventions",
+      "published": "2026-11-18T15:38:00+00:00",
+      "age_hours": 8.4
+    },
+    {
+      "title": "Brown School program works to move discoveries into real world - WashU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclVhc0xDaExQSFBUSzdGV05QdW5vVWNwaF82TUJnQ2xiRkxpYlpZazBwU1RUbFI1UlNqX1JjTWJ3UnQ3MGxyWUZ6VXBUS0VVVnhKVkhPVlhxNFdQaTB1bGExQ0c3c2tMME1UU0gya3NIeGRGQll4WUR1VVBfMkVhMWFDb2V1akxLZnRFV0s1R3FBcVNLOURHQkVLVUc?oc=5",
+      "description": "Brown School program works to move discoveries into real world    WashU",
+      "image_url": "",
+      "source": "WashU",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T15:24:06+00:00",
+      "age_hours": 8.6
+    },
+    {
+      "title": "Breakthrough T1D, Lupus Research Alliance, and National Multiple Sclerosis Society Award Nearly $1M to Fuel Autoimmune Disease Discovery - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeWtFeURhWGQySWtIdnJZdFF2VzdxSmhfZ3dxLWk5YTA5WmdGWUsyLW9ueEY3NGRydE9YRk9NWXZhWno2aWVVYVc3c3laTGtrbXlpcmk2VmFTczAyazV1ZzM2NV9MTGh3MW5NZFM3T3pQbGJSQmdYTGo0UXFPbHA3UUtnRmYzN3ZsaG9yOFg4QldzM005Z0pPaGthbEFZLXdjMEt3ek9MT3NEYkk5UEpfaUlZdE9xdmFIWE5JTlByZjg0VTNwOWl1cUhFbi1mVS0xaVZGOUNXOC1HUVJRckNxVmVYUVBRRFdLcXZCY1IxMC1rT21rdHAyUHNJendVY3M3bWx6WnZYTzd3X09NS1NwVTVYQWV1clBQ?oc=5",
+      "description": "Breakthrough T1D, Lupus Research Alliance, and National Multiple Sclerosis Society Award Nearly $1M to Fuel Autoimmune Disease Discovery    PR Newswire",
+      "image_url": "",
+      "source": "PR Newswire",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T15:00:00+00:00",
+      "age_hours": 9.0
+    },
+    {
+      "title": "Neurosteroid Offers Clues to Brain Changes Linked to Depression | Newswise - Newswise",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2hOcWVRMjQwZVBYcm1zMjVCQnRvTWNmRTlUTmlhbG1JYl82aTdNQ0ZGSkdIX3R4UkNJN3FMM2I0Uk9IOVUtbkg5S0VkaU43TzlHRGF6aWZWRmVYZmRqMDUyUGZYejVOSk0wSXlFS3N6M2cxa05sQkpnUVBaWnQ2bUpGZ0JTaWlxWnQyZktPc2s4dkttRU5UWWFyT2lBUdIBngFBVV95cUxPY2hOcWVRMjQwZVBYcm1zMjVCQnRvTWNmRTlUTmlhbG1JYl82aTdNQ0ZGSkdIX3R4UkNJN3FMM2I0Uk9IOVUtbkg5S0VkaU43TzlHRGF6aWZWRmVYZmRqMDUyUGZYejVOSk0wSXlFS3N6M2cxa05sQkpnUVBaWnQ2bUpGZ0JTaWlxWnQyZktPc2s4dkttRU5UWWFyT2lBUQ?oc=5",
+      "description": "Neurosteroid Offers Clues to Brain Changes Linked to Depression | Newswise    Newswise",
+      "image_url": "",
+      "source": "Newswise",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T14:25:00+00:00",
+      "age_hours": 9.6
     },
     {
       "title": "Nanox to Showcase Its Innovative Technology and Advances Across Nanox.ARC X and Nanox.AI at RSNA 2026 - markets.businessinsider.com",
@@ -30,17 +150,27 @@
       "source": "markets.businessinsider.com",
       "category": "Technology & Inventions",
       "published": "2026-11-18T14:08:13+00:00",
-      "age_hours": 1.2
+      "age_hours": 9.9
     },
     {
       "title": "Namibia lacks data to track SDGs - The Namibian",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5THEtcmh3WmN1VklTMW9ueG5OdDBtbERIcFJWNzd0T3ppeWtSQVFmRU1XRGtIRG9LZnFCc3pId254cklrUlRYQWg0OFlYNXNCUlhXSWNQbDQxRFVMYVMtUnpZS3cxb1Bw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90R3Q4SGVyYmVpRkROWE81Y3lYSVo2Z0x0UndNV0RiTG8yWTRpcVpUSXhWUVBhZEx2bHpDZ0ZXTDJUQ090TUwzdjEwbTZMMUxGc1IzY25IRjZOVVdtcjZaUllaTEY5ZHBGZ2tUV2dR?oc=5",
       "description": "Namibia lacks data to track SDGs    The Namibian",
       "image_url": "",
       "source": "The Namibian",
       "category": "Economics & Statistics",
       "published": "2026-11-18T14:04:01+00:00",
-      "age_hours": 1.3
+      "age_hours": 10.0
+    },
+    {
+      "title": "Endangered colourful San Francisco garter snakes released into the wild for the first time as 62 zoo-born - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdm53NGc4a0swU29wVWZNSGlfQURQbTI1azBYd3F6Y1RjSFRIVU15Y3BoZzIySnlyallmOTUwYk9kUXgyV2xxbUNzaE1TVm9PekF0YWtyT0dJMHJDb1JzUTduT0IyaGpBc1FPUU9RdE10a0x5aUF6QVJaVS1hWVFrYmJOeXdMR0hEUkJ6OGFZd0d1TEVHcEdZT3E1c2ozdTZvVEl3MWJiYkdmaVI0bl9sZEdISGdfZUZpbXkxbFh2amZNeWZNVFR2alUwaGE0MkdSSE5RLVZjS1AybXR3dU1yRTJBZlhzZ0FmMWNLT0pCaVU2TFhBQmt6TnRGM092Y3NabDZnNmtpdWxMckxqZ1hSU082UFQzWWlBSlBvbGs5NnJ2d2s4SmdHWlFXTHpPMTZSRW8zbVgwUEdKY3ItRzEwRU0yLWJVU1RfTkFYeVY0b9IB1AJBVV95cUxONV9EQWlIdlBLQXZXczZIOWFobTNzWTBUZWczaGNYTkN2UGJXYmdqSDliMGFlSkhDRF9aLWhhLUx4VGNCM0xaM3N5OGhYQXVFLTBGYzhCODgtVVpFS25obUNMVnZWNzU3Q2RZR1JIdE1HQVI1SnRXZXdqbnpMZnpXQmRfaWFYNWtvYzlwRnNGcEZ0dGxNazBpUExKMExOODZDQmlLVmxoaHl3QTNxZngwdDh4M2VHZnhkZGRiajlVTHFoRWdEZUFqczN3VEwwVmFNWG01WTVYdGhfdUlKNDd2Zk81N1kzcXJRa3FYSHVWT3NxX01pNXZTSzE5M25oZ1NmY0JyTWxuQndvUjNoNDVsR2RvNjY0UVVVYjhYdjVtRWZSWC1nb21Kc1ZoLU9FMlgyXzE2RGxkd1otSWFWcHJ5NWFWTlYtQXlSNUpET01wem83bGVu?oc=5",
+      "description": "Endangered colourful San Francisco garter snakes released into the wild for the first time as 62 zoo-born    The Times of India",
+      "image_url": "",
+      "source": "The Times of India",
+      "category": "Wildlife & Conservation",
+      "published": "2026-11-18T13:31:00+00:00",
+      "age_hours": 10.5
     },
     {
       "title": "CPRIT funding fuels AI-powered cancer discovery at UT San Antonio - UT Health San Antonio",
@@ -50,7 +180,7 @@
       "source": "UT Health San Antonio",
       "category": "Science & Medicine",
       "published": "2026-11-18T13:15:24+00:00",
-      "age_hours": 2.1
+      "age_hours": 10.8
     },
     {
       "title": "PM WANTS EMASWATI TO HAVE MORE CHILDREN - Eswatini Positive News",
@@ -60,17 +190,7 @@
       "source": "Eswatini Positive News",
       "category": "Economics & Statistics",
       "published": "2026-11-18T12:43:22+00:00",
-      "age_hours": 2.7
-    },
-    {
-      "title": "Ann Mwangi of Green Earth highlights the organisation's efforts to promote clean cooking and environmental conservation through the distribution of energy-saving jikos to communities living around Mt Kenya Forest. The latest distribution reached 600 househ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMmhiNUdEOWRTV1ZPUnVfUjNhWGgxQXBsc1VTR0lSdDNIWW1DVGlsYWdTbFVPWDFqM094M25TY3lFeC1QZG1kSXlUUkFWQzRwWVdEZVZ3b0xMVXo3cThxOV96RGlIN3E0QUdxQ1M2aHY1cjZRY29JSThYTVZzX055WTBTMnhQRGFTV1BlN0xadG9xMVZlOXB4U3E0SjdINmVyWnhlSkQ5NU5ycl9Tc0dLNzk0VEZoaE1tTV93cGpiZWNxelo4R08tX21iNzZxa3lST01uWFZEMEFmMUxEZmc?oc=5",
-      "description": "Ann Mwangi of Green Earth highlights the organisation's efforts to promote clean cooking and environmental conservation through the distribution of energy-saving jikos to communities living around Mt Kenya Forest. The latest distribution reached 600 househ    Facebook",
-      "image_url": "",
-      "source": "Facebook",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-18T12:40:09+00:00",
-      "age_hours": 2.7
+      "age_hours": 11.3
     },
     {
       "title": "A rare disease reveals a hidden flaw in the immune system - Science Daily",
@@ -80,27 +200,17 @@
       "source": "Science Daily",
       "category": "Science & Medicine",
       "published": "2026-11-18T12:37:14+00:00",
-      "age_hours": 2.8
+      "age_hours": 11.4
     },
     {
-      "title": "Kenya News Agency - KNA. . Koinange Wahome, Laikipia County Secretary, underscores the importance of promoting energy-saving jikos among communities living near Mt Kenya Forest, saying the initiative, supported by Netherlands-based organisation Gr - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOXNmX2xUcUxqdDYyb0tSa2F3U2Z0TFVxTldVZHl4eEwyeTRycEhKNXV1VUdKVGhCUDlmUkhMSnFLT0JoZVV2LXQ2cEFHM1RYelZDczBpbnU2bGdQb3MwT0xxTTktbjdFN3JZVTIyejJhd3R1YS1tYldUU1BMZk1FUXowTkU2ZE9MUHlhdEg4RHNTemczUF92bkdzcl9NaEVIV1l1Y3lta0Mwdm1aeWlFTlRoTDZWcDdUSVRhRmttMEFFcmFNSm5qVjk0VDN3anU2VDg1b2Ytb3dncHFTOS1n?oc=5",
-      "description": "Kenya News Agency - KNA. . Koinange Wahome, Laikipia County Secretary, underscores the importance of promoting energy-saving jikos among communities living near Mt Kenya Forest, saying the initiative, supported by Netherlands-based organisation Gr    Facebook",
+      "title": "Mukiria Mugo, Nanyuki Community Forest Association Secretary, highlights the impact of energy-saving jikos in reducing household dependence on firewood, easing pressure on Mt Kenya Forest and encouraging communities to take an active role in environ - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaEFacXlZOE5qT0xRRXNtTFduTG9ad210dmNrZXc0SjNMR3NuLXgyaV8tenRLbGRyMlRfSFRLYndabEtFdVBpeXpOeU5ubzN2aGVyckIyZXZwSlJ5cl9UbTNObW1PaG9XZGNtbDIyM0VkVEZTWDBRWDJhb2p1WFRSU20teHFpM3RCeXJBTkZQZkRKLWFBWmd4WlNFcTdwWHZpY3JCN0pvSW1XZHJTYUs3MnVsYTBvQ0o0Q3pPcmJKZkhTckdsWnhIVklSa0hQakh5YWlEYUlXLXFSM2tiTEE?oc=5",
+      "description": "Mukiria Mugo, Nanyuki Community Forest Association Secretary, highlights the impact of energy-saving jikos in reducing household dependence on firewood, easing pressure on Mt Kenya Forest and encouraging communities to take an active role in environ    Facebook",
       "image_url": "",
       "source": "Facebook",
       "category": "Environment & Climate Solutions",
-      "published": "2026-11-18T12:26:08+00:00",
-      "age_hours": 2.9
-    },
-    {
-      "title": "Kenya News Agency - KNA. . Peter Kariuki, Chief Conservator in Nyeri, underscored the importance of distributing energy-saving jikos to communities living around Mt Kenya Forest, noting that the initiative will reduce dependence on firewood, ease pressure o - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1hibHRUT1hMTHBIVkZNX2djM2tZMEVrOHZiNzNjLWJTbDhGbm1qRjZGN2czZjVKRU9HYkk1VmVIQzhjQ2toNkZHWUtvM3VLUW5PV2xQRTJzd3FJOWpMaWRjUHp3YzFyM2RDUWJGdjFUXzg1Y3NYS2t1TzFfeGtVbzJ3YnRlUzR5Tnl3Qmhlcm9RMzh4Q0R0eEpUOUlTTzc4UFNFUWtuN3BBaktBdlN0NFdiaTdRVXRVVzl5YWYyTVpXRWo4R3RMT1dwcmlSWkh6b0paUldITmVIUWxYaGRV?oc=5",
-      "description": "Kenya News Agency - KNA. . Peter Kariuki, Chief Conservator in Nyeri, underscored the importance of distributing energy-saving jikos to communities living around Mt Kenya Forest, noting that the initiative will reduce dependence on firewood, ease pressure o    Facebook",
-      "image_url": "",
-      "source": "Facebook",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-18T12:23:49+00:00",
-      "age_hours": 3.0
+      "published": "2026-11-18T12:27:11+00:00",
+      "age_hours": 11.6
     },
     {
       "title": "Genomics and Vertex Extend $220 million Drug Discovery Partnership Deal - https://politicsuk.com/",
@@ -110,7 +220,17 @@
       "source": "https://politicsuk.com/",
       "category": "Science & Medicine",
       "published": "2026-11-18T12:11:37+00:00",
-      "age_hours": 3.2
+      "age_hours": 11.8
+    },
+    {
+      "title": "The 100 Best Doctors in Arizona for 2027 - AZ Big Media",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOF9US09UWklobkdTTThaUng2SmV2ZGwxczZQdlI1ZDVGTGVrTVc5bzk2ZUZvZ3hveGRVMDdZcmJLMHZtLXlURVFoWmdMWTYxSEZ6dWpmX1VwUmJrRWc4RUltRDU1NG9xYmJxWDhsQ2VoTUVRTGJoUjg1LTFTbTZMWUNEN0htV2NxUTdmaGRB?oc=5",
+      "description": "The 100 Best Doctors in Arizona for 2027    AZ Big Media",
+      "image_url": "",
+      "source": "AZ Big Media",
+      "category": "Science & Medicine",
+      "published": "2026-11-18T12:07:43+00:00",
+      "age_hours": 11.9
     },
     {
       "title": "Bangladesh After Sheikh Hasina: The Development Legacy, the Cost of Political Upheaval and What the Nation Has Lost in Two Years - IBG News",
@@ -120,7 +240,17 @@
       "source": "IBG News",
       "category": "Economics & Statistics",
       "published": "2026-11-18T11:07:33+00:00",
-      "age_hours": 4.3
+      "age_hours": 12.9
+    },
+    {
+      "title": "Nigeria's Economic Performance Under President Bola Ahmed Tinubu (2023 - 2026) -By Dr. Luke Oladayo - Opinion Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHpCWFFmUUtrX09FV2V3ek8ySUI1Y2hYOEJhVjlwem9xdGZseFROTjBuNWlCT1BDUW9BRnNrQ1dWZy1tUUt6eWFXaHNmTGtyVDZDLXBqN0Raekp3MUgwc2MycmE2cGRZMmVtcExLOVczbUk2OEJ2SkhfWGJWMHVIbFNrOHFwWnFROGZRbTY1N1VacnZxdnZPQkJQUldRcUxqb1NGd0RGcE5ZT2FtMGFPdXVRVUpzejFqLWV4ZHRVQk5Xdw?oc=5",
+      "description": "Nigeria's Economic Performance Under President Bola Ahmed Tinubu (2023 - 2026) -By Dr. Luke Oladayo    Opinion Nigeria",
+      "image_url": "",
+      "source": "Opinion Nigeria",
+      "category": "Economics & Statistics",
+      "published": "2026-11-18T10:10:46+00:00",
+      "age_hours": 13.9
     },
     {
       "title": "Michigan spent years removing invasive plants from Wilderness State Park beaches starting in 2012; by 2016 - The Economic Times",
@@ -130,7 +260,7 @@
       "source": "The Economic Times",
       "category": "Wildlife & Conservation",
       "published": "2026-11-18T10:00:00+00:00",
-      "age_hours": 5.4
+      "age_hours": 14.0
     },
     {
       "title": "Commission partially greenlights Croatia’s final payment request for €2.67 billion under NextGenerationEU - The European Sting",
@@ -140,7 +270,7 @@
       "source": "The European Sting",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-18T09:29:58+00:00",
-      "age_hours": 5.9
+      "age_hours": 14.5
     },
     {
       "title": "Anti-India Propaganda: BJP Slams Rahul Gandhi For Calling Indian Economy An Economic Disaster During - Free Press Journal",
@@ -150,7 +280,7 @@
       "source": "Free Press Journal",
       "category": "Economics & Statistics",
       "published": "2026-11-18T05:47:33+00:00",
-      "age_hours": 9.6
+      "age_hours": 18.3
     },
     {
       "title": "Small Brain Tissues, Big Discoveries: A Decade of Brain Organoid Research - The Scientist",
@@ -160,37 +290,7 @@
       "source": "The Scientist",
       "category": "Science & Medicine",
       "published": "2026-11-18T05:03:11+00:00",
-      "age_hours": 10.3
-    },
-    {
-      "title": "Earthshot Prize 2026 Winners: Full List, Categories and Prize Money - Adda247",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGJaVjRSbnlKaEo3b1Y2Z0RoQm9VQzhSMkw1SHlVS2pHSHRyQzNSMVlUeVA2ZjBpMG1PakNzdVE2Q19QQzJQdFI3c3kxVG1DcF93LURsUEdWdm1sbGlSaUhNYUlQQ2F5R2kwSHI5d2NGSEpvN2U0eWVjRVRfaDVTWXpMNnAtdDc1X3c1SWlzQ2NxN1FDNDVkTFcyVzM5NUxKbUxr?oc=5",
-      "description": "Earthshot Prize 2026 Winners: Full List, Categories and Prize Money    Adda247",
-      "image_url": "",
-      "source": "Adda247",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-18T04:45:52+00:00",
-      "age_hours": 10.6
-    },
-    {
-      "title": "From ER to Orbit: How Space Is Shaping the Future of Medicine | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW9pcUQzWnZSdXlVdmRuWmIwOVVZSmZrd041Z1h1M1ROYmU1ZXdwYTB3c0pqUHhBeFZCQmhsOU1BTWVPU1lZVDBCU2JxbHNUZFVBN0JjWHFvQ2N0amVETG9JazhxaTJybk9ieThrSDBncEVzN3djTmhhRWpaNWdDek5PUDBRWm45c3BhZmZROUtBWWFTanhLR3JB0gGaAUFVX3lxTE0tb2lxRDNadlJ1eVV2ZG5aYjA5VVlKZmt3TjVnWHUzVE5iZTVld3BhMHdzSmpQeEF4VkJCaGw5TUFNZU9TWVlUMEJTYnFsc1RkVUE3QmNYcW9DY3RqZURMb0lrOHFpMnJuT2J5OGtIMGdwRXM3d2NOaGFFalo1Z0N6Tk9QMFFabjlzcGFmZlE5S0FZYVNqeEtHckE?oc=5",
-      "description": "From ER to Orbit: How Space Is Shaping the Future of Medicine | Newswise    Newswise",
-      "image_url": "",
-      "source": "Newswise",
-      "category": "Science & Medicine",
-      "published": "2026-11-18T00:30:00+00:00",
-      "age_hours": 14.9
-    },
-    {
-      "title": "The 100 Best Doctors in Arizona for 2027 - AZ Big Media",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOF9US09UWklobkdTTThaUng2SmV2ZGwxczZQdlI1ZDVGTGVrTVc5bzk2ZUZvZ3hveGRVMDdZcmJLMHZtLXlURVFoWmdMWTYxSEZ6dWpmX1VwUmJrRWc4RUltRDU1NG9xYmJxWDhsQ2VoTUVRTGJoUjg1LTFTbTZMWUNEN0htV2NxUTdmaGRB?oc=5",
-      "description": "The 100 Best Doctors in Arizona for 2027    AZ Big Media",
-      "image_url": "",
-      "source": "AZ Big Media",
-      "category": "Science & Medicine",
-      "published": "2026-11-18T00:28:52+00:00",
-      "age_hours": 14.9
+      "age_hours": 19.0
     },
     {
       "title": "UNLV’s Clinical Trials Observatory Data Now Available Through AI-Powered Alzheimer’s Disease Data Initiative’s AD Workbench | Newswise - Newswise",
@@ -200,7 +300,17 @@
       "source": "Newswise",
       "category": "Science & Medicine",
       "published": "2026-11-17T23:05:00+00:00",
-      "age_hours": 16.3
+      "age_hours": 25.0
+    },
+    {
+      "title": "Kenya News Agency - KNA. . Peter Kariuki, Chief Conservator in Nyeri, underscored the importance of distributing energy-saving jikos to communities living around Mt Kenya Forest, noting that the initiative will reduce dependence on firewood, ease pressure o - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1hibHRUT1hMTHBIVkZNX2djM2tZMEVrOHZiNzNjLWJTbDhGbm1qRjZGN2czZjVKRU9HYkk1VmVIQzhjQ2toNkZHWUtvM3VLUW5PV2xQRTJzd3FJOWpMaWRjUHp3YzFyM2RDUWJGdjFUXzg1Y3NYS2t1TzFfeGtVbzJ3YnRlUzR5Tnl3Qmhlcm9RMzh4Q0R0eEpUOUlTTzc4UFNFUWtuN3BBaktBdlN0NFdiaTdRVXRVVzl5YWYyTVpXRWo4R3RMT1dwcmlSWkh6b0paUldITmVIUWxYaGRV?oc=5",
+      "description": "Kenya News Agency - KNA. . Peter Kariuki, Chief Conservator in Nyeri, underscored the importance of distributing energy-saving jikos to communities living around Mt Kenya Forest, noting that the initiative will reduce dependence on firewood, ease pressure o    Facebook",
+      "image_url": "",
+      "source": "Facebook",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-17T19:10:02+00:00",
+      "age_hours": 28.9
     },
     {
       "title": "Legislating for implementation handbook - Niskanen Center",
@@ -210,7 +320,17 @@
       "source": "Niskanen Center",
       "category": "Politics & Public Policy",
       "published": "2026-11-17T19:00:02+00:00",
-      "age_hours": 20.4
+      "age_hours": 29.0
+    },
+    {
+      "title": "What Can Genes Reveal About Chronic Pain? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdXJsR192dVlndjhRWnp4YVdPXzdEYVdOQ1ZwNU5wTGIzS0d4dVZsWkNFTy0tdVdFNVVSSGZERjY0QkhVbG4tYXo1WmpXWDVqVGtWT0plN0tOX3pRZ2ZRX1p1MVBsUTNfNEJvOXhlUFcyN3hQ?oc=5",
+      "description": "What Can Genes Reveal About Chronic Pain?    The New York Times",
+      "image_url": "",
+      "source": "The New York Times",
+      "category": "Science & Medicine",
+      "published": "2026-11-17T18:53:19+00:00",
+      "age_hours": 29.2
     },
     {
       "title": "Studies Offer New Insights Into Melanoma Immunotherapy - Mount Sinai",
@@ -220,27 +340,17 @@
       "source": "Mount Sinai",
       "category": "Science & Medicine",
       "published": "2026-11-17T17:56:54+00:00",
-      "age_hours": 21.4
+      "age_hours": 30.1
     },
     {
-      "title": "IU’s Richard DiMarchi receives major international award for pioneering obesity, diabetes treatments - News at IU",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHlLS3ZheVg3ZzdSeVJxckRGLS01dnNwdk1BaXRTUldGX01HRFpJTE1OXzkyaWIwbk5oVmR2Wk44eDBKdkZ6bFRNNXJMX0pLbk1TUjU4WE1FejB6ekcxck03cmRfZGRCR2hFMjBJMkhadzZqZy1uc1gtUVRPZ3Z3aXhseDVYM2JxOFNPaVBn?oc=5",
-      "description": "IU’s Richard DiMarchi receives major international award for pioneering obesity, diabetes treatments    News at IU",
+      "title": "City of Hope and Adagene Open Clinical Trial to Test New Therapy for Patients with Hard-to-Treat Colorectal Cancer - City of Hope",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ1czb3ppMVpqclBXRmhMdE1IVkZkR2xvbG0teVN0SW9ES0o5UFFSQ1hXZlZaMFY4cF9ZdEZ3cEdGb1AtbzNoN1ZxekFsR21wWGU4NTRvUTB0N2hfbHRGUERVSUhQYjIwWW12bndiakdpME9ncEhWOVlsVnBFSkVYc255cVg4RjktVWRQTC1SR21INHk1UUFPWWVlWFg0aU9QSHRkSE5Db3hjU0E2OVYtaUUtRjB3aEtBbGJDbzgwLTlOdTBWTUFkMTRUQjIzRFlWYVdtXzBvRXNWTC05dFgtTFdVdmRqcl95Z0ZQVmg0aHRnemtKYVB3ek9sUHpVZw?oc=5",
+      "description": "City of Hope and Adagene Open Clinical Trial to Test New Therapy for Patients with Hard-to-Treat Colorectal Cancer    City of Hope",
       "image_url": "",
-      "source": "News at IU",
+      "source": "City of Hope",
       "category": "Science & Medicine",
-      "published": "2026-11-17T15:33:27+00:00",
-      "age_hours": 23.8
-    },
-    {
-      "title": "City of Hope and Adagene Open Clinical Trial to Test New Therapy for Patients with Hard-to-Treat Colorectal Cancer - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGJCb1FjenUzNjZaQmk4aVFxbXVMVXdMck9PcVhMb2xia0oxOGlkYTlFeHRIcGtaazh5dEppcF91clc2THIwVl9JZVRmdFpZYlppZGZZM3hVUU1FRTlOLTB3UnlESDR4TnJoTnNpdjllZnFfRnhLWnQzbTloVDY4RF9IZTgtb1gyWlhBWGtPaURkcGpBZmFDUDBZTTVzY0JXQzV0cVkwUWdrTEYtemVNVWNDc2p5YjdzcUJfaGZQNWJ4X0tJVGo5OC1lNjlPY09GVk03N1V5T3UteC1DcmpJZ3BvMlVPQjh0cnc?oc=5",
-      "description": "City of Hope and Adagene Open Clinical Trial to Test New Therapy for Patients with Hard-to-Treat Colorectal Cancer    BioSpace",
-      "image_url": "",
-      "source": "BioSpace",
-      "category": "Science & Medicine",
-      "published": "2026-11-17T15:33:17+00:00",
-      "age_hours": 23.8
+      "published": "2026-11-17T17:48:10+00:00",
+      "age_hours": 30.2
     },
     {
       "title": "The Next Measure of Progress - Clarion India",
@@ -250,7 +360,17 @@
       "source": "Clarion India",
       "category": "Economics & Statistics",
       "published": "2026-11-17T14:07:05+00:00",
-      "age_hours": 25.3
+      "age_hours": 33.9
+    },
+    {
+      "title": "Masdar City Generates 10,797 MWh Of Renewable Energy, Cuts Emissions By 2,517 Tonnes - SolarQuarter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmJ0bW50VXh3XzgxN1dmOXVFQm84TTVsUkF6bVNmc2xZSVYwR242RHQ1czYxVTRrbEROWVhFUUYxMW1lR05XS0ltUDhaLThWOC1JODdpcmRNcDk2d3FOZjBneFZuY0ZiZHJ0VWt6UlhKV1BsNzMtM2F0UFhmaHR1a3gwVlpDLU9teWY2cm1uZnNnaWhLQWItV0R1MTgxd2lRcVFUdldoMkRTbWNzRU00UC1xUVEySTFacWc?oc=5",
+      "description": "Masdar City Generates 10,797 MWh Of Renewable Energy, Cuts Emissions By 2,517 Tonnes    SolarQuarter",
+      "image_url": "",
+      "source": "SolarQuarter",
+      "category": "Environment & Climate Solutions",
+      "published": "2026-11-17T13:08:12+00:00",
+      "age_hours": 34.9
     },
     {
       "title": "Scientists Discover a Powerful New Way To Kill Prostate Cancer Cells - SciTechDaily",
@@ -260,27 +380,7 @@
       "source": "SciTechDaily",
       "category": "Science & Medicine",
       "published": "2026-11-17T12:32:59+00:00",
-      "age_hours": 26.8
-    },
-    {
-      "title": "Nickel downstreaming on Obi Island: Progress, and what remains - The Jakarta Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTZSY3NGMFA0UHBvcVY1cnhfSlMtd3RwVWxETjZFaFVsNkl3emJ1RlFfNnVwaTZhRnZZRVo3b0M4RWpOUTJDREFwT015MnNIajdaMDI2R2hpX1hmWTJvMk9Mb1gtczYtckZvYlp5MlJncFFSRlRNNm9yaWs3QmRHQUFoUkZRbG9tSVB3RWxTcy1aekg0Q0o3V2dtVEEwZ1F2ckdHR1E0SmdqUEJRZ191Tg?oc=5",
-      "description": "Nickel downstreaming on Obi Island: Progress, and what remains    The Jakarta Post",
-      "image_url": "",
-      "source": "The Jakarta Post",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-17T10:22:11+00:00",
-      "age_hours": 29.0
-    },
-    {
-      "title": "Mkinga targets 3,474 hectares for forest restorations by 2031 - https://ippmedia.co.tz/",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTVhemswbkdZX3QxaFdqODl6cFNaMV9uQ25sZm8xV3hndW1UZlkzNUZOWmZlYUVadXJhV0dqLXhiRS1tWUhLTlU1Y1k1WmE5TnNlbXJZWVlyN0JDMktiVWJJMkgzdUFfMUxwSzZxbVhKZ1BfV1ZZZDhDUjl6Rm9COFFUSXAtVDNDSVF3akFwNDNBYU9zMkpJQjRIdWFJUjhkUl9HZGVyM2VibTZ3RXZudHFyMmRObENuZi1Balh5aENOb1BOUTR3?oc=5",
-      "description": "Mkinga targets 3,474 hectares for forest restorations by 2031    https://ippmedia.co.tz/",
-      "image_url": "",
-      "source": "https://ippmedia.co.tz/",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-17T10:03:06+00:00",
-      "age_hours": 29.3
+      "age_hours": 35.5
     },
     {
       "title": "‘Tall poppy syndrome’: Bionic ear inventor calls out timid investors - The Australian",
@@ -290,7 +390,7 @@
       "source": "The Australian",
       "category": "Technology & Inventions",
       "published": "2026-11-17T04:16:00+00:00",
-      "age_hours": 35.1
+      "age_hours": 43.8
     },
     {
       "title": "CDFW News | Historic Effort Recovers Native Lahontan Cutthroat Trout Within Silver Creek - California Department of Fish and Wildlife (.gov)",
@@ -300,17 +400,7 @@
       "source": "California Department of Fish and Wildlife (.gov)",
       "category": "Wildlife & Conservation",
       "published": "2026-11-16T18:01:45+00:00",
-      "age_hours": 45.3
-    },
-    {
-      "title": "Mayo Clinic names radiologist and AI leader as new CEO - Healthcare IT News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3c3V1BHNURxSHR5Z2lwbkZZVDNaSmp5MlEydWFncThxR2c3bzdxcW15Q0pRUnd0dU5McmdzOW1HZTRkU0pxTWl5MVlJaWZ5VEpvQjRvUk42NGlYaFA4M3Z3MkIxamxLcVdHTXdDQTJLdlZUakQ5cEJGVkNkQ1FpZG5Gcl9sckFqSndmOFdOM1ZrYWRDcjFF?oc=5",
-      "description": "Mayo Clinic names radiologist and AI leader as new CEO    Healthcare IT News",
-      "image_url": "",
-      "source": "Healthcare IT News",
-      "category": "Science & Medicine",
-      "published": "2026-11-16T16:30:00+00:00",
-      "age_hours": 46.9
+      "age_hours": 54.0
     },
     {
       "title": "What's next for WWF’s conservation priorities before Congress - World Wildlife Fund",
@@ -320,7 +410,7 @@
       "source": "World Wildlife Fund",
       "category": "Wildlife & Conservation",
       "published": "2026-11-16T16:27:15+00:00",
-      "age_hours": 46.9
+      "age_hours": 55.6
     },
     {
       "title": "Dr. Szilárd Kiss to Lead Ophthalmology at Weill Cornell Medicine and NewYork-Presbyterian/Weill Cornell Medical Center - WCM Newsroom",
@@ -330,7 +420,7 @@
       "source": "WCM Newsroom",
       "category": "Science & Medicine",
       "published": "2026-11-16T16:24:47+00:00",
-      "age_hours": 47.0
+      "age_hours": 55.6
     },
     {
       "title": "Rabbits Were Wrecking This Seabird’s Burrows. Once They Were Gone, Its Numbers Took Off - A-Z Animals",
@@ -340,27 +430,7 @@
       "source": "A-Z Animals",
       "category": "Wildlife & Conservation",
       "published": "2026-11-16T15:02:00+00:00",
-      "age_hours": 48.3
-    },
-    {
-      "title": "Vitamin B12 may hold the key to treating a rare genetic disorder - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEajVmT28wVEpxb2ZkQTJYODc4WnBodGpWWGpEWXZFejgxejAxU1ZTZXJfNGZaNTBZV1R3THVNUm1UZzN3UFJsNjNoNlRqcm0xZEFCd2s4ZEdZLUdlVmhtRjRnUndramNndW9ScGgxYw?oc=5",
-      "description": "Vitamin B12 may hold the key to treating a rare genetic disorder    Science Daily",
-      "image_url": "",
-      "source": "Science Daily",
-      "category": "Science & Medicine",
-      "published": "2026-11-16T14:32:22+00:00",
-      "age_hours": 48.8
-    },
-    {
-      "title": "Endangered colourful San Francisco garter snakes released into the wild for the first time as 62 zoo-born - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdm53NGc4a0swU29wVWZNSGlfQURQbTI1azBYd3F6Y1RjSFRIVU15Y3BoZzIySnlyallmOTUwYk9kUXgyV2xxbUNzaE1TVm9PekF0YWtyT0dJMHJDb1JzUTduT0IyaGpBc1FPUU9RdE10a0x5aUF6QVJaVS1hWVFrYmJOeXdMR0hEUkJ6OGFZd0d1TEVHcEdZT3E1c2ozdTZvVEl3MWJiYkdmaVI0bl9sZEdISGdfZUZpbXkxbFh2amZNeWZNVFR2alUwaGE0MkdSSE5RLVZjS1AybXR3dU1yRTJBZlhzZ0FmMWNLT0pCaVU2TFhBQmt6TnRGM092Y3NabDZnNmtpdWxMckxqZ1hSU082UFQzWWlBSlBvbGs5NnJ2d2s4SmdHWlFXTHpPMTZSRW8zbVgwUEdKY3ItRzEwRU0yLWJVU1RfTkFYeVY0b9IB1AJBVV95cUxONV9EQWlIdlBLQXZXczZIOWFobTNzWTBUZWczaGNYTkN2UGJXYmdqSDliMGFlSkhDRF9aLWhhLUx4VGNCM0xaM3N5OGhYQXVFLTBGYzhCODgtVVpFS25obUNMVnZWNzU3Q2RZR1JIdE1HQVI1SnRXZXdqbnpMZnpXQmRfaWFYNWtvYzlwRnNGcEZ0dGxNazBpUExKMExOODZDQmlLVmxoaHl3QTNxZngwdDh4M2VHZnhkZGRiajlVTHFoRWdEZUFqczN3VEwwVmFNWG01WTVYdGhfdUlKNDd2Zk81N1kzcXJRa3FYSHVWT3NxX01pNXZTSzE5M25oZ1NmY0JyTWxuQndvUjNoNDVsR2RvNjY0UVVVYjhYdjVtRWZSWC1nb21Kc1ZoLU9FMlgyXzE2RGxkd1otSWFWcHJ5NWFWTlYtQXlSNUpET01wem83bGVu?oc=5",
-      "description": "Endangered colourful San Francisco garter snakes released into the wild for the first time as 62 zoo-born    The Times of India",
-      "image_url": "",
-      "source": "The Times of India",
-      "category": "Wildlife & Conservation",
-      "published": "2026-11-16T13:13:00+00:00",
-      "age_hours": 50.2
+      "age_hours": 57.0
     },
     {
       "title": "How Singapore lab advances discovery and approval of rare blood disorder therapy - Singapore Economic Development Board (EDB)",
@@ -370,7 +440,7 @@
       "source": "Singapore Economic Development Board (EDB)",
       "category": "Science & Medicine",
       "published": "2026-11-16T11:29:32+00:00",
-      "age_hours": 51.9
+      "age_hours": 60.6
     },
     {
       "title": "Google and Singapore deepen partnership to advance frontier AI for healthcare and scientific discovery - Singapore Economic Development Board (EDB)",
@@ -380,17 +450,7 @@
       "source": "Singapore Economic Development Board (EDB)",
       "category": "Science & Medicine",
       "published": "2026-11-16T08:00:00+00:00",
-      "age_hours": 55.4
-    },
-    {
-      "title": "Flinders MND research centre of excellence opens - Flinders University",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjVuSFJtNDVBblJLT0trUEs2STM5RFZNS2wyRkxzQTJ1ZThnMDk4LV9IekJuN2JKNWZ5eFB6ektTQWlDRWhyZDdxZmdiTHVodVJ1RXcxNXZuQmZzUDhFUlEzWTRSU0ItbEtnaG5LY0ZNNndnanFGMGxHQkFJMVlCM2dMTFIybU1zN3Q4RHphbUdFbzdRZU1hY0NB?oc=5",
-      "description": "Flinders MND research centre of excellence opens    Flinders University",
-      "image_url": "",
-      "source": "Flinders University",
-      "category": "Science & Medicine",
-      "published": "2026-11-16T05:40:36+00:00",
-      "age_hours": 57.7
+      "age_hours": 64.0
     },
     {
       "title": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer - www.pib.gov.in",
@@ -400,7 +460,7 @@
       "source": "www.pib.gov.in",
       "category": "Wildlife & Conservation",
       "published": "2026-11-16T05:22:53+00:00",
-      "age_hours": 58.0
+      "age_hours": 66.7
     },
     {
       "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year. - The New York Times",
@@ -410,27 +470,7 @@
       "source": "The New York Times",
       "category": "Science & Medicine",
       "published": "2026-11-16T00:00:33+00:00",
-      "age_hours": 63.4
-    },
-    {
-      "title": "Ca Mau launches Month of Action for Gender Equality - Promoting the Role and Status of Women - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUi1lNHZNZXd0X0RCVkFUck5GSGxGYk5VQld1MFZWT0VaV2ctZzJXYUpObHVvMVBSR2xqdGp5MVFLRnMyT0xtY2oxbHZoOHhJQVI1OEhFdjhPY2VKMWFtRzhXTklkdncxQjJvblVocXBaNUJzV19Ib0hXSkM5M0VQT3RVc0dleU1uMTNMTGZzZXhGbEk4dlF2aFRnRHhsWFg5N1B4T3E5WGhSMU5vOTFTdw?oc=5",
-      "description": "Ca Mau launches Month of Action for Gender Equality - Promoting the Role and Status of Women    Vietnam.vn",
-      "image_url": "",
-      "source": "Vietnam.vn",
-      "category": "Economics & Statistics",
-      "published": "2026-11-15T14:19:55+00:00",
-      "age_hours": 73.0
-    },
-    {
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50b2FpOU5ZRHhUSWRFVS1sSnFRNWplWGM1NGxaTURheURqNlU1V3pFN2dEYlZMMTJDUkJZUkNuaG9fSEwwdmhrRUFGRHRQX0lsMHllanRUaUc4dXNZakhvcURPcFkzOTlnWFF3NEJtaw?oc=5",
-      "description": "A common osteoporosis drug blocked spinal damage in a surprising new study    Science Daily",
-      "image_url": "",
-      "source": "Science Daily",
-      "category": "Science & Medicine",
-      "published": "2026-11-15T14:05:11+00:00",
-      "age_hours": 73.3
+      "age_hours": 72.0
     },
     {
       "title": "\"Hardly Anyone Seems To Care\": Scientists Are Sharing The Discoveries That Should Have Blown People’s Minds, But Garnered ZERO Reaction, And We’re Doomed As A Society - BuzzFeed",
@@ -440,7 +480,17 @@
       "source": "BuzzFeed",
       "category": "Science & Medicine",
       "published": "2026-11-15T13:01:02+00:00",
-      "age_hours": 74.4
+      "age_hours": 83.0
+    },
+    {
+      "title": "Win more Nobels, lose innovative edge? Chinese study reveals cost of top awards - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdTBkUEhtTGVRRVU1WVZTbC1aSWk0NEE0UTBxaF9tQ3ZWMkNPWHllRmozb1NncHhJMG55eWo0ZmZHMTQzWGhfemhXajdJbklXQjhBSU5nTGdYSFgtNFE5WGlHVmhOd0hlZmtvVzZYYUZIZm5rNDh5WUlSQmF1cnY3MU9oUG14RFZ5ck1mYmROaVMzaHRJOXM3TmJzZGhFNXhDaWxYUkExSXpBd3Z2MWROXzRDcE5QRWRuazNUemIzaGRQN0loMGJfcEtZWDFxQdIBzgFBVV95cUxOYTRMSEtRX05LMC1NS09JcEhPNGRHQl9hTmczRVdDZ2lCUHQtX25zeVV5YVY0dHdjRDVSUmQ5aElIN2JXVzdCQU5rbm55N3pNcGE2M2l0ZGxWVVpkSFNZOVNtQzhYUEpwcWR4WHpuMlFJbmlYWUxGT2hSTkRldnpoRUkzcWZIMlI3S3FTV3Zxb1pGMEtaSG9VUGRHRkw3ZkppRXZSd1loekdqUWRlUGNOY0FLNURmZDV3T0Y4cGM5eGx1cTFwM0U3c0NtcEQ5QQ?oc=5",
+      "description": "Win more Nobels, lose innovative edge? Chinese study reveals cost of top awards    South China Morning Post",
+      "image_url": "",
+      "source": "South China Morning Post",
+      "category": "Technology & Inventions",
+      "published": "2026-11-15T12:02:15+00:00",
+      "age_hours": 84.0
     },
     {
       "title": "Can palm oil conservation efforts protect Borneo’s wildlife? - Borneo Bulletin",
@@ -450,7 +500,7 @@
       "source": "Borneo Bulletin",
       "category": "Wildlife & Conservation",
       "published": "2026-11-15T05:00:51+00:00",
-      "age_hours": 82.4
+      "age_hours": 91.0
     },
     {
       "title": "Greening the economy, creating carbon sinks: Lessons from China - Herald.co.zw",
@@ -460,17 +510,17 @@
       "source": "Herald.co.zw",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-15T04:30:19+00:00",
-      "age_hours": 82.9
+      "age_hours": 91.5
     },
     {
       "title": "Helping elephants keep to their lanes: Can palm oil millions save Borneo’s forest and wildlife? - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM0lvQ1hFd0pfWWIyX2NOTDczcnlQUksyenhuY2pocVNycVRIN0FzNlg5TG1xWEdfLXRJV1B3T0xUenllSmRnTGpidDc3SDJRcGFCUmJxelBLNlBxUXF0a21vWUE3ZjZQUy1ibzlNcEtwWUliR0ZLeng0V3VvNDhXWlY2b3M4clFxR0ctQUNZNHk4UGpmb1NHeGV6U0dRcGNxUXdNbm93b3NWdHNLUVNNeDRqaF9NblMwdUhCU0dydTl6OTExRjRyZHQtbXU2bGxWWEZFc0Fudk1ubHJQQXFmSlM2WDhIbWNIZk00?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk96YU1tZm8xWjZydWVNaWNxOEgyQjJseTNRd1VGbWVPdmJITXRxNkEta292TThwV0U0bWh5ZzVBWHlwbkloRVZqcnlVd1VKOFRGMWNQaXVMRlBKUi1fdzJ0d0FUcUVtVk9TRV9Lb3IyZ2U4VmY1Nzk3ekVtaEJoVUVWZ2EtdXNXVTBWMWY1U1M5U0Vyc2NtSVU3VXBTWUhyeVN1a0lnb3VwTkRjTDNIT1VMd2syRzZnNGJPenVuaE5CeHVQcGhqQVpySjlmVHc?oc=5",
       "description": "Helping elephants keep to their lanes: Can palm oil millions save Borneo’s forest and wildlife?    The Straits Times",
       "image_url": "",
       "source": "The Straits Times",
       "category": "Wildlife & Conservation",
       "published": "2026-11-14T21:00:00+00:00",
-      "age_hours": 90.4
+      "age_hours": 99.0
     },
     {
       "title": "India’s Export Growth in FY 2026-27: Strong Performance, New Milestones - www.pib.gov.in",
@@ -480,7 +530,17 @@
       "source": "www.pib.gov.in",
       "category": "Economics & Statistics",
       "published": "2026-11-14T15:22:00+00:00",
-      "age_hours": 96.0
+      "age_hours": 104.7
+    },
+    {
+      "title": "2026 WWF EFN Grant Recipients - World Wildlife Fund",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWlBEUy0wTEsyYzJ1WVhFcGh2RlF6aFlXODQ4VmxZNm4xdlRfbTFwMVR6TTNmSm4wNl9PeTlaQzZXcXplcjR1b2EyNXJvcTlVLUhacFQ3S2ZrVXRVTlVpMzdGYTRrb3dodUwxazZCRXRQMWNnSzBtTGtHVl9TY3hraUwwSnVCb3FBTU5rdVJmNV84Q19PeGpVcnJaRGtEaHhlNGNHTGtxQ2hmc2pubGZYeTJWeUs0SWRVMi1sM2h5UVlOVkdJWG9zV2JUcEpxZGUyNmF6MHI4S1RNRWdvODVBNVo2WkhYSlU2VlFaVDlVUQ?oc=5",
+      "description": "2026 WWF EFN Grant Recipients    World Wildlife Fund",
+      "image_url": "",
+      "source": "World Wildlife Fund",
+      "category": "Wildlife & Conservation",
+      "published": "2026-11-14T08:23:51+00:00",
+      "age_hours": 111.6
     },
     {
       "title": "Mississippi couple restores longleaf Pine Forest for 20 years, helps release nearly 500 critically... - Moneycontrol.com",
@@ -490,7 +550,7 @@
       "source": "Moneycontrol.com",
       "category": "Wildlife & Conservation",
       "published": "2026-11-14T04:58:01+00:00",
-      "age_hours": 106.4
+      "age_hours": 115.1
     },
     {
       "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings - Science Daily",
@@ -500,7 +560,7 @@
       "source": "Science Daily",
       "category": "Archaeology & Anthropology",
       "published": "2026-11-14T03:00:51+00:00",
-      "age_hours": 108.4
+      "age_hours": 117.0
     },
     {
       "title": "Bangladesh Economy at the Crossroads - India Narrative",
@@ -510,7 +570,7 @@
       "source": "India Narrative",
       "category": "Economics & Statistics",
       "published": "2026-11-14T00:30:00+00:00",
-      "age_hours": 110.9
+      "age_hours": 119.5
     },
     {
       "title": "UT MD Anderson Shares Latest Research Breakthroughs | Newswise - Newswise",
@@ -520,7 +580,7 @@
       "source": "Newswise",
       "category": "Science & Medicine",
       "published": "2026-11-13T22:05:00+00:00",
-      "age_hours": 113.3
+      "age_hours": 122.0
     },
     {
       "title": "Anthropic CEO Dario Amodei: Can AI Cure Cancer by 2036? - Oncodaily",
@@ -530,7 +590,7 @@
       "source": "Oncodaily",
       "category": "Science & Medicine",
       "published": "2026-11-13T21:42:15+00:00",
-      "age_hours": 113.7
+      "age_hours": 122.3
     },
     {
       "title": "Ultrasound Could Improve Coral Restoration Efforts - Environment+Energy Leader",
@@ -540,67 +600,7 @@
       "source": "Environment+Energy Leader",
       "category": "Environment & Climate Solutions",
       "published": "2026-11-13T21:00:00+00:00",
-      "age_hours": 114.4
-    },
-    {
-      "title": "Mapping an Enzyme Offers Clues to Treating Rare Genetic Disease - Mount Sinai",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakhPdVRkUmFmZE1sWjBoR1BZdXRXckRSeGV0UFdCa1NYRWZlNm9EOHlzWENyTm14M2VWYm1aaDFaQTd6WUxNN1lUUXhRejZIZlYtZjJkZERhNlppVmpMZHdocGROTXBtTGFyWWM4Q2RxQjhMbUhkY2xlMS0yXzJsNWdiajFHN2dLY0pTZncydFVRMWUzeWJaNnB2U1Z5cWFDVEFjR2w5RmF5ZDFJTkdz?oc=5",
-      "description": "Mapping an Enzyme Offers Clues to Treating Rare Genetic Disease    Mount Sinai",
-      "image_url": "",
-      "source": "Mount Sinai",
-      "category": "Science & Medicine",
-      "published": "2026-11-13T19:27:57+00:00",
-      "age_hours": 115.9
-    },
-    {
-      "title": "Mayo Clinic Board of Trustees elects Matthew R. Callstrom, M.D., Ph.D., as next president and CEO - Mayo Clinic News Network",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDJVdHpxZS1yTFhUWlZ0MEhMVEc5ZXphTUw5UnlTSWtJOWd1eWotV2NDNEwtOG0yZlZncm9pWElfRXNhRjRwcDVTWjBSUkRLUENyNEtobjRwNFJSTW5YZ0gyWGotNjc5MFp4N21FbGF1Zlc0S09oMjJOUVJQUFJma2NTcFdwZWRRUjlsNFM3TlFSVnVwNFItVHRWVFBHejRNYTFtN1h1azZYQnNnOWxKQXhMazNwUU0xakhWUVF3ZlU3YzRvVXEwTF9tZnF6OGlKOWZRaw?oc=5",
-      "description": "Mayo Clinic Board of Trustees elects Matthew R. Callstrom, M.D., Ph.D., as next president and CEO    Mayo Clinic News Network",
-      "image_url": "",
-      "source": "Mayo Clinic News Network",
-      "category": "Science & Medicine",
-      "published": "2026-11-13T19:06:20+00:00",
-      "age_hours": 116.3
-    },
-    {
-      "title": "NEWSLETTER: Blood-brain barrier discovery could lead to new Alzheimer's disease approach - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORlZvdlg1VG9aOExLYWdTOXByN2dhT2hNb0l3dEZDT0xFTVRBV0Z3c3MzaE85WThVb01GQTA3R1N4eWJMdTVibzZpYTVFTm1hbzdOZ09VRUd3cHZEbkJJekZXUUs3Z1ljQTluS1NwZWI4R0RRT2k1UVJaUFRKam5ISTEwZk1SekdfOGNGT1RuUWNWUUE3LVFIV195bGlsVXpnR25kOUVUdV80aG5MUHlpamI1RERPQnlfR29IQ015X21zMzdlaXlwU3dzOTk2TkZfWFA3RmlNN2xKT25u?oc=5",
-      "description": "NEWSLETTER: Blood-brain barrier discovery could lead to new Alzheimer's disease approach    Reuters",
-      "image_url": "",
-      "source": "Reuters",
-      "category": "Science & Medicine",
-      "published": "2026-11-13T12:12:38+00:00",
-      "age_hours": 123.2
-    },
-    {
-      "title": "A Step in the Right Direction: Indonesia’s Falling Poverty Rates - The Borgen Project",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LQ0pXU3EwU2EtZm1PTHk2YWFtam5BMXF1ZkNwMHg2SXdoN1lVUXBlSFhfMUYyV2lja1dIdDhjckY5MWdqaDRsS1dWeE9vUXpONGhvcUphejdmT3B6Yl9hbUd3SmJjY0dDZ2V3?oc=5",
-      "description": "A Step in the Right Direction: Indonesia’s Falling Poverty Rates    The Borgen Project",
-      "image_url": "",
-      "source": "The Borgen Project",
-      "category": "Economics & Statistics",
-      "published": "2026-11-13T11:00:31+00:00",
-      "age_hours": 124.4
-    },
-    {
-      "title": "Popol Vuh | Mayan mythology, creation story, sacred text - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzYm9menp3SnBRTk1ibkVhSElYUEstYTFKQ05uMmdWcmVTR2RGcHNVQnJ1aEgwMlpvRm80WnhxLWs0cF8wdHZCQ0ZobXYtWHBVUkc1aw?oc=5",
-      "description": "Popol Vuh | Mayan mythology, creation story, sacred text    Britannica",
-      "image_url": "",
-      "source": "Britannica",
-      "category": "Archaeology & Anthropology",
-      "published": "2026-11-13T08:00:00+00:00",
-      "age_hours": 127.4
-    },
-    {
-      "title": "Massachusetts Nature for All Fund Expands Conservation - Environment+Energy Leader",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3NlTW5UR0J5M1JZVnkzZkdFbXc1bkZpVS1INDdsOWgxMlItX29aQ3FSMzZELVJmNlk2VFNOSEl1OU02RV93SGlCQnpKcWZrdEhEWF96OXpnSXFHMk5MOHRjVHNBX19JMHdJQzN4T0dXWVcwU1F0TUpVUXRORTRKWElpaTJmcXJqNWgwcGVZR2tHa1F5SEEzcHQ2RlpJczVBN0RFVUZENTd5aFdt?oc=5",
-      "description": "Massachusetts Nature for All Fund Expands Conservation    Environment+Energy Leader",
-      "image_url": "",
-      "source": "Environment+Energy Leader",
-      "category": "Environment & Climate Solutions",
-      "published": "2026-11-13T08:00:00+00:00",
-      "age_hours": 127.4
+      "age_hours": 123.0
     }
   ]
 }
